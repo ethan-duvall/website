@@ -6,6 +6,10 @@ navbar:
       href: index.html
     - text: "Research"
       href: about.html
+    - text: "CV"
+      href: cv.html
+    - text: "Photos"
+      href: photos.html
 output_dir: "."
 output:
   html_document:
