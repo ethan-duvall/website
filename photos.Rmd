@@ -4,3 +4,6 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
+![Bone](C:\Github\Repositories\website\images\bone.jpg)
+![Bone](C:\Github\Repositories\website\images\black_hills.jpg)
+![Bone](C:\Github\Repositories\website\images\devils_tower.jpg)
