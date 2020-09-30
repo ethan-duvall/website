@@ -5,4 +5,23 @@ date: "9/30/2020"
 output: html_document
 ---
 
+Duvall, E. (2019, December 11). Eagles, Salmon, and a Free-flowing River [Blog post]. Retrieved from 
 https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/
+
+Duvall, E. and McLaughlin, J. In preparation. Measuring restoration progress using river-dependent 
+birds: Lessons from Elwha dam removal
+
+Duvall, E. In preparation. Over-wintering Bald Eagles redistribute to agricultural areas as an adaptive 
+response to impacts of climate change
+
+Speech given at the 2019 Huxley College of the Environment commencement ceremony:
+“2019 Huxley Graduation THH Winner Ethan Duvall Speech”
+https://www.youtube.com/watch?v=t4MsRdLxKiE
+
+Short film about my undergraduate research, produced by Western Washington University:
+“WWU Give Day ’19 Video| Ethan Duvall | Huxley Ecology Research”
+	https://vimeo.com/336206305
+
+Article about my research on the Elwha River, written by the Western Front:
+“Environmental Science Students Analyze a River Reborn”
+http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
