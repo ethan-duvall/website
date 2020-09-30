@@ -1,0 +1,15 @@
+name: "my-website"
+navbar:
+  title: "Ethan Duvall"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Research"
+      href: about.html
+output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true 
+    toc_float: true 
