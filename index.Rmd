@@ -1,6 +1,6 @@
 ---
 title: "About"
-author: "Ethan Duvall | PhD Student @ Cornell University Testing"
+author: "Ethan Duvall | PhD Student @ Cornell University"
 date: "9/29/2020"
 output: html_document
 ---
