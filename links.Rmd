@@ -1,0 +1,8 @@
+---
+title: "Publications and Links"
+author: "ethan"
+date: "9/30/2020"
+output: html_document
+---
+
+https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/
