@@ -4,6 +4,8 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
-![Bone](C:\Github\Repositories\website\images\bone.jpg)
-![Bone](C:\Github\Repositories\website\images\black_hills.jpg)
-![Bone](C:\Github\Repositories\website\images\devils_tower.jpg)
+![Yellowstone with Caelan](C:\Github\Repositories\website\images\caelan_night.jpg)
+
+![Black Hills, SD](C:\Github\Repositories\website\images\black_hills.jpg)
+
+![Dr. John McLaughlin, Grande Ronde River, OR](C:\Github\Repositories\website\images\john.jpg)
