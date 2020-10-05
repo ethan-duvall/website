@@ -9,3 +9,10 @@ output: html_document
 ![Black Hills, SD](C:\Github\Repositories\website\images\black_hills.jpg)
 
 ![Dr. John McLaughlin, Grande Ronde River, OR](C:\Github\Repositories\website\images\john.jpg)
+![Bald Eagle, Nooksack River, WA](C:\Github\Repositories\website\images\eagle.jpg)
+
+![Randy, WA](C:\Github\Repositories\website\images\randy.jpg)
+
+![River](C:\Github\Repositories\website\images\river.jpg)
+
+![Em](C:\Github\Repositories\website\images\emily.jpg)
