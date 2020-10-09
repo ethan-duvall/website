@@ -36,3 +36,11 @@ output: html_document
 ![Devils Tower, WY w/ Emily](C:\Github\Repositories\website\images\em2.jpg)
 
 ![Harlequin Duck, Port Angeles WA](C:\Github\Repositories\website\images\harl.jpg)
+
+![Enchantments "Game recognize game", WA](C:\Github\Repositories\website\images\goat.jpg)
+
+![CO VIA](C:\Github\Repositories\website\images\via.jpg)
+
+![Westport, WA](C:\Github\Repositories\website\images\sky.jpg)
+
+![Yellowstone Bison Skull](C:\Github\Repositories\website\images\bison.jpg)
