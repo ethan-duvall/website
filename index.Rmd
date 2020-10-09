@@ -5,7 +5,7 @@ date: "9/29/2020"
 output: html_document
 ---
 
-I am an ornithologist with broad interests in spatial ecology, freshwater ecology, and ecological stoichiometry. In general, my research focuses on the the impacts of anthropogenic change on bird distribution and abundance, and addresses the implications of these responses. I strive to conduct use-based research that will improve our understanding of biodiversity while promoting its conservation. I look to integrate the use of geospatial tools such as GIS, remote sensing, and spatial statistics to uncover ways of maximizing biodiversity in our increasingly crowded world.
+I am an ornithologist with broad interests in spatial ecology, freshwater ecology, and ecological stoichiometry. In general, my research focuses on bird responses to anthropogenic change and addresses the implications of these responses. I strive to conduct use-based research that will improve our understanding of biodiversity while promoting its conservation. I look to integrate the use of geospatial tools such as GIS, remote sensing, and spatial statistics to uncover ways of maximizing biodiversity in our increasingly crowded world.
 
 I am currently a PhD student in the Ecology and Evolutionary Biology Department at Cornell University. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water supply corporation in the Puget Sound reguion. I have worked a variety of field jobs in the past, from outdoor guiding to tracking mountain goats in the North Cascades. I grew up at the base of the Cascade Mountains in Washington State and will always call the Pacific Northwest home. 
 
