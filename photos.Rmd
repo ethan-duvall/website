@@ -4,15 +4,32 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
+
 ![Yellowstone with Caelan](C:\Github\Repositories\website\images\caelan_night.jpg)
 
 ![Black Hills, SD](C:\Github\Repositories\website\images\black_hills.jpg)
 
 ![Dr. John McLaughlin, Grande Ronde River, OR](C:\Github\Repositories\website\images\john.jpg)
+
 ![Bald Eagle, Nooksack River, WA](C:\Github\Repositories\website\images\eagle.jpg)
 
 ![Randy, WA](C:\Github\Repositories\website\images\randy.jpg)
 
-![River](C:\Github\Repositories\website\images\river.jpg)
+![Grande Ronde River guiding with Field Camp crew, OR](C:\Github\Repositories\website\images\river.jpg)
 
-![Em](C:\Github\Repositories\website\images\emily.jpg)
+![My favorite girl Emily, SD](C:\Github\Repositories\website\images\emily.jpg)
+
+![Luke climbing, CR](C:\Github\Repositories\website\images\lukewater.jpg)
+
+![Caming out, North Cascades](C:\Github\Repositories\website\images\campingout.jpg)
+
+![Mt. Baker riding, WA](C:\Github\Repositories\website\images\baker.jpg)
+
+![Forrest, WA](C:\Github\Repositories\website\images\fmountains.jpg)
+
+![Herecium Mushroom from Central Cascades, WA](C:\Github\Repositories\website\images\mushroom.jpg)
+
+![Frog, CR](C:\Github\Repositories\website\images\treefrog.jpg)
+
+![Lauren, UT](C:\Github\Repositories\website\images\sister.jpg)
+
