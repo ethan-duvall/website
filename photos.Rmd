@@ -17,7 +17,7 @@ output: html_document
 
 ![Grande Ronde River guiding with Field Camp crew, OR](C:\Github\Repositories\website\images\river.jpg)
 
-![My favorite girl Emily, SD](C:\Github\Repositories\website\images\emily.jpg)
+![Em, SD](C:\Github\Repositories\website\images\emily.jpg)
 
 ![Luke climbing, CR](C:\Github\Repositories\website\images\lukewater.jpg)
 
@@ -33,3 +33,6 @@ output: html_document
 
 ![Lauren, UT](C:\Github\Repositories\website\images\sister.jpg)
 
+![Devils Tower, WY w/ Emily](C:\Github\Repositories\website\images\em2.jpg)
+
+![Harlequin Duck, Port Angeles WA](C:\Github\Repositories\website\images\harl.jpg)
