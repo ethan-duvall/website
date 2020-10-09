@@ -3,7 +3,9 @@ title: "Contact"
 output: html_document
 ---
 
-**Contact me: esd63[at]cornell.edu**
+*Ethan Duvall*
+
+### **Contact me: esd63[at]cornell.edu**
 
 Cornell University
 
