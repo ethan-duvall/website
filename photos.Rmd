@@ -5,42 +5,40 @@ date: "9/30/2020"
 output: html_document
 ---
 
-![Yellowstone with Caelan](C:\Github\Repositories\website\images\caelan_night.jpg)
+![Ethan and Caelan in Yellowstone, WY (8/20/2020)](C:\Github\Repositories\website\images\caelan_night.jpg)
 
-![Black Hills, SD](C:\Github\Repositories\website\images\black_hills.jpg)
+![Black Hills NP, SD (8/26/2020)](C:\Github\Repositories\website\images\black_hills.jpg)
 
-![Dr. John McLaughlin, Grande Ronde River, OR](C:\Github\Repositories\website\images\john.jpg)
+![Dr. John McLaughlin, Grande Ronde River, OR (4/13/2019)](C:\Github\Repositories\website\images\john.jpg)
 
-![Bald Eagle, Nooksack River, WA](C:\Github\Repositories\website\images\eagle.jpg)
+![Bald Eagle on the Nooksack River, WA *Photo taken by my good friend Lucas Gibbons* (12/12/2018)](C:\Github\Repositories\website\images\eagle.jpg)
 
-![Randy, WA](C:\Github\Repositories\website\images\randy.jpg)
+![Tracking mountain goats w/ Randy Jones through old growth forest near Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\randy.jpg)
 
-![Grande Ronde River guiding with Field Camp crew, OR](C:\Github\Repositories\website\images\river.jpg)
+![Research crew on the Grande Ronde river, OR (4/13/2019)](C:\Github\Repositories\website\images\river.jpg)
 
-![Em, SD](C:\Github\Repositories\website\images\emily.jpg)
+![Deadwood, SD w/ Emily ❤ (9/26/2020)](C:\Github\Repositories\website\images\emily.jpg)
 
-![Luke climbing, CR](C:\Github\Repositories\website\images\lukewater.jpg)
+![Exploring waterfalls with Luke in Monteverde, CR (6/28/2016)](C:\Github\Repositories\website\images\lukewater.jpg)
 
-![Caming out, North Cascades](C:\Github\Repositories\website\images\campingout.jpg)
+![DFW Crew in the North Cascades, WA (9/22/2018)](C:\Github\Repositories\website\images\campingout.jpg)
 
-![Mt. Baker riding, WA](C:\Github\Repositories\website\images\baker.jpg)
+![Riding at Mt. Baker, WA *Photo by Lucas Gibbons* (2/12/2019)](C:\Github\Repositories\website\images\baker.jpg)
 
-![Forrest, WA](C:\Github\Repositories\website\images\fmountains.jpg)
+![Scrambling mountain peaks in the North Cascades, WA w/ my good friend Forrest (9/15/2017)](C:\Github\Repositories\website\images\fmountains.jpg)
 
-![Herecium Mushroom from Central Cascades, WA](C:\Github\Repositories\website\images\mushroom.jpg)
+![Herecium Mushroom from Central Cascades, WA (8/6/2018)](C:\Github\Repositories\website\images\mushroom.jpg)
 
-![Frog, CR](C:\Github\Repositories\website\images\treefrog.jpg)
+![Tree frog in Costa Rica (6/22/2016)](C:\Github\Repositories\website\images\treefrog.jpg)
 
-![Lauren, UT](C:\Github\Repositories\website\images\sister.jpg)
+![Exploring slot canyons in Moab, UT w/ Lauren (7/13/2020)](C:\Github\Repositories\website\images\sister.jpg)
 
-![Devils Tower, WY w/ Emily](C:\Github\Repositories\website\images\em2.jpg)
+![Devils Tower, WY w/ Emily (9/18/2020)](C:\Github\Repositories\website\images\em2.jpg)
 
-![Harlequin Duck, Port Angeles WA](C:\Github\Repositories\website\images\harl.jpg)
+![Enchantments, WA "Game recognize game" *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Github\Repositories\website\images\goat.jpg)
 
-![Enchantments "Game recognize game", WA](C:\Github\Repositories\website\images\goat.jpg)
+![Telluride CO via ferrata *Photo taken by Lauren Duvall* (7/18/2020)](C:\Github\Repositories\website\images\via.jpg)
 
-![CO VIA](C:\Github\Repositories\website\images\via.jpg)
+![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Github\Repositories\website\images\sky.jpg)
 
-![Westport, WA](C:\Github\Repositories\website\images\sky.jpg)
-
-![Yellowstone Bison Skull](C:\Github\Repositories\website\images\bison.jpg)
+![Exploring Yellowstone, WY (9/15/2020)](C:\Github\Repositories\website\images\bison.jpg)
