@@ -16,21 +16,25 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 ## **Honors and Awards**
 
-•Thomas Henry Huxley Award Recipient – *"This award recipient demonstrated exceptional scholastic achievement and has been involved in the community, served Huxley College, and has shown all-around excellence in environmental studies”* :2019
+•Thomas Henry Huxley Award Recipient – *"This award recipient demonstrated exceptional scholastic achievement and has been involved in the community, served Huxley College, and has shown all-around excellence in environmental studies”* 2019
 
-•Honorary Commencement Ceremony Student Speaker; Huxley College: 2019
+•Honorary Commencement Speaker - Western Washington University, Huxley College of the Environment: 2019
 
-•Cornell Graduate Fellow: 2020
+•Cornell University First-year Graduate Fellow in Life Sciences: 2020
+
+•Dean’s Fund of Sustainability Studies Award; Huxley College of the Environment
+
+•Washington Chapter of The Wildlife Society Research Grant Award
 
 
 ## **Publications** 
 
-Duvall, E. (*In preperation*). Distributional Responses of Wintering Bald Eagles to Impacts of Climate Change in the Pacific Northwest
+Duvall, E. (*In Review*). Distributional Responses of Wintering Bald Eagles to Impacts of Climate Change in the Pacific Northwest. *Northwest Science*
 
 Duvall, E. and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
 birds: Lessons from Elwha dam removal
 
-Duvall, E. (*In preparation*). Indigenous Methods of Hunting Waterfowl used by Lummi and Coast Salish Peoples
+Duvall, E. (*In Review*). Indigenous Methods of Hunting Waterfowl used by Lummi and Coast Salish Peoples *Journal of Northwest Anthropology*
 
 
 ## **Presentations**
@@ -69,12 +73,6 @@ Video I directed promoting community engagement in keeping rivers clean:
 "Protecting Clean Water as a COmmunity #WeNeedWater"
 https://www.youtube.com/watch?v=pmuJgfw4vSE
 
-## **Funding**
-
-Dean’s Fund of Sustainability Studies; Huxley College of the Environment ($500)
-
-Washington Chapter of The Wildlife Society ($500)
-
 
 ## **Professional Experience**
 
@@ -91,25 +89,6 @@ Field Technician, WDFW & HUXLEY COLLEGE
 Outdoor Recreational GUide, COMPASS OUTDOOR ADVENTURES
 
 
-## **Skills and Certificates**
-
-•	Certificate: River Studies and Leadership; River Science
-
-•	ArcGIS Pro, ArcGIS Online, ESRI Products
-
-•	R, Rstudio, Python, SQL
-
-•	Remote sensing; satellite imagery analysis; LiDAR
-
-•	Radio Telemetry
-
-•	Bird survey methods; river surveys, point counts, etc.
-
-•	Camera trap carnivore survey methods
-
-•	Cartography
-
-
 ## **Activities and Volunteer Work**
 
 • Committee Member: North Bend Parks and Recreation; 2014-2016
@@ -122,9 +101,24 @@ Outdoor Recreational GUide, COMPASS OUTDOOR ADVENTURES
 
 •	High school varsity soccer Captain, MVP, and 1st Team All-Conference Player: 2016 
 
-• Co-founder: Be the Change Leadership Conference; 2011
+• Co-founder: Be the Change Leadership Conference 2011-current
 
-•	Avid outdoorsmen, bird watcher, backpacker, environmental activist, etc.
+
+## **Skills and Certificates**
+
+•	Certificate: River Studies and Leadership; River Science
+
+•	ArcGIS Pro; ArcGIS Online; ESRI Products
+
+•	R, Rstudio, Python, SQL
+
+•	Remote sensing; satellite imagery analysis; LiDAR
+
+•	Radio Telemetry
+
+•	Wildlife surveys methods: songbirds, riverbirds, carnivores, amphibians 
+
+•	Web map application development; Cartography
 
 
 ## **Organizations and Affiliations**
