@@ -1,6 +1,6 @@
 ---
 title: "CV"
-author: "Ethan Duvall"
+author: "Ethan Duvall test"
 date: "9/30/2020"
 output: html_document
 ---
