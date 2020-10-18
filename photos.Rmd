@@ -5,17 +5,17 @@ date: "9/30/2020"
 output: html_document
 ---
 
-![Ethan and Caelan in Yellowstone, WY (8/20/2020)](C:\Github\Repositories\website\images\caelan_night.jpg)
+![Ethan and Caelan in Yellowstone, WY (8/20/2020)](C:\Github\Repositories\website\images\caelan_ethan_night.jpg)
 
 ![Black Hills NP, SD (8/26/2020)](C:\Github\Repositories\website\images\black_hills.jpg)
 
 ![Dr. John McLaughlin, Grande Ronde River, OR (4/13/2019)](C:\Github\Repositories\website\images\john.jpg)
 
-![Bald Eagle on the Nooksack River, WA *Photo taken by my good friend Lucas Gibbons* (12/12/2018)](C:\Github\Repositories\website\images\eagle.jpg)
+![Bald Eagle on the Nooksack River, WA *Photo taken by my good friend Lucas Gibbons* (12/12/2018)](C:\Github\Repositories\website\images\lucas_eagle.jpg)
 
-![Tracking mountain goats w/ Randy Jones through old growth forest near Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\randy.jpg)
+![Tracking mountain goats w/ Randy Jones through old growth forest near Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\ethan_randy.jpg)
 
-![Research crew on the Grande Ronde river, OR (4/13/2019)](C:\Github\Repositories\website\images\river.jpg)
+![Research crew on the Grande Ronde river, OR (4/13/2019)](C:\Github\Repositories\website\images\grande_ronde.jpg)
 
 ![Deadwood, SD w/ Emily ❤ (9/26/2020)](C:\Github\Repositories\website\images\emily.jpg)
 
@@ -31,14 +31,14 @@ output: html_document
 
 ![Tree frog in Costa Rica (6/22/2016)](C:\Github\Repositories\website\images\treefrog.jpg)
 
-![Exploring slot canyons in Moab, UT w/ Lauren (7/13/2020)](C:\Github\Repositories\website\images\sister.jpg)
+![Exploring slot canyons in Moab, UT w/ Lauren (7/13/2020)](C:\Github\Repositories\website\images\lauren_utah.jpg)
 
 ![Devils Tower, WY w/ Emily (9/18/2020)](C:\Github\Repositories\website\images\em2.jpg)
 
-![Enchantments, WA "Game recognize game" *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Github\Repositories\website\images\goat.jpg)
+![Enchantments, WA "Game recognize game" *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Github\Repositories\website\images\ethan_goat.jpg)
 
 ![Telluride CO via ferrata *Photo taken by Lauren Duvall* (7/18/2020)](C:\Github\Repositories\website\images\via.jpg)
 
-![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Github\Repositories\website\images\sky.jpg)
+![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Github\Repositories\website\images\westport_sky.jpg)
 
-![Exploring Yellowstone, WY (9/15/2020)](C:\Github\Repositories\website\images\bison.jpg)
+![Exploring Yellowstone, WY (9/15/2020)](C:\Github\Repositories\website\images\caelan_yellowstone.jpg)
