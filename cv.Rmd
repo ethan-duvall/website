@@ -112,7 +112,7 @@ Outdoor Recreational GUide, COMPASS OUTDOOR ADVENTURES
 
 •	Certificate: River Studies and Leadership; River Science
 
-•	ArcGIS Pro; ArcGIS Online; ESRI Products
+•	ArcGIS Pro; ArcGIS Online; ESRI Products; QGIS
 
 •	R, Rstudio, Python, SQL
 
