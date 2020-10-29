@@ -37,7 +37,7 @@ output: html_document
 
 ![Enchantments, WA "Game recognize game" *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Github\Repositories\website\images\ethan_goat.jpg)
 
-![Telluride CO via ferrata *Photo taken by Lauren Duvall* (7/18/2020)](C:\Github\Repositories\website\images\ethan_via.jpg)
+![Telluride CO, via ferrata *Photo taken by Lauren Duvall* (7/18/2020)](C:\Github\Repositories\website\images\ethan_via.jpg)
 
 ![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Github\Repositories\website\images\westport_sky.jpg)
 
