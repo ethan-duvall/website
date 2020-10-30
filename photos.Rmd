@@ -5,15 +5,15 @@ date: "9/30/2020"
 output: html_document
 ---
 
-![Ethan and Caelan in Yellowstone, WY (8/20/2020)](C:\Github\Repositories\website\images\caelan_ethan_night.jpg)
+![Yellowstone, WY, w/ Caelan (8/20/2020)](C:\Github\Repositories\website\images\caelan_ethan_night.jpg)
 
 ![Black Hills NP, SD (8/26/2020)](C:\Github\Repositories\website\images\black_hills.jpg)
 
 ![Dr. John McLaughlin, Grande Ronde River, OR (4/13/2019)](C:\Github\Repositories\website\images\john.jpg)
 
-![Bald Eagle on the Nooksack River, WA *Photo taken by my good friend Lucas Gibbons* (12/12/2018)](C:\Github\Repositories\website\images\lucas_eagle.jpg)
+![Bald Eagle on the Nooksack River, WA *Photo by my good friend Lucas Gibbons* (12/12/2018)](C:\Github\Repositories\website\images\lucas_eagle.jpg)
 
-![Tracking mountain goats w/ Randy Jones through old growth forest near Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\ethan_and_randy.jpg)
+![Tracking mountain goats w/ Randy Jones through old growth, Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\ethan_and_randy.jpg)
 
 ![Research crew on the Grande Ronde river, OR (4/13/2019)](C:\Github\Repositories\website\images\grande_ronde.jpg)
 
@@ -27,7 +27,7 @@ output: html_document
 
 ![Scrambling mountain peaks in the North Cascades, WA w/ my good friend Forrest (9/15/2017)](C:\Github\Repositories\website\images\fmountains.jpg)
 
-![Herecium Mushroom from Central Cascades, WA (8/6/2018)](C:\Github\Repositories\website\images\mushroom.jpg)
+![*Herecium* Mushroom from Central Cascades, WA (8/6/2018)](C:\Github\Repositories\website\images\mushroom.jpg)
 
 ![Tree frog in Costa Rica (6/22/2016)](C:\Github\Repositories\website\images\treefrog.jpg)
 
