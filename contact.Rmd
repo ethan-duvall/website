@@ -4,6 +4,11 @@ output: html_document
 ---
 
 *Ethan Duvall*
+..
+-- 
+I am extremely open to collaboration and would love to connect
+--
+..
 
 ### **Contact me: esd63[at]cornell.edu**
 
