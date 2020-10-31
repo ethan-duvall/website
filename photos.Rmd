@@ -31,6 +31,8 @@ output: html_document
 
 ![Tree frog in Costa Rica (6/22/2016)](C:\Github\Repositories\website\images\treefrog.jpg)
 
+![Huxley College Commencement Speech (6/22/2016)](C:\Github\Repositories\website\images\speech.jpg)
+
 ![Exploring slot canyons in Moab, UT w/ Lauren (7/13/2020)](C:\Github\Repositories\website\images\lauren_utah.jpg)
 
 ![Devils Tower, WY w/ Emily (9/18/2020)](C:\Github\Repositories\website\images\em2.jpg)
@@ -42,3 +44,11 @@ output: html_document
 ![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Github\Repositories\website\images\westport_sky.jpg)
 
 ![Exploring Yellowstone, WY (9/15/2020)](C:\Github\Repositories\website\images\caelan_yellowstone.jpg)
+
+![Juvenile Northern Goshawk, Hawk Watch Raptor Banding Site, Chelan Ridge (10/13/2018)](C:\Github\Repositories\website\images\goshawk.jpg)
+
+![CR w/ Luke (5/06/2016)](C:\Github\Repositories\website\images\luke_kayak.jpg)
+
+![Badlands NP w/ Emily (9/10/2020)](C:\Github\Repositories\website\images\emily_badlands.jpg)
+
+![North Cascades, Mt. Bkaer, WA (7/27/2018)](C:\Github\Repositories\website\images\north_cascades.jpg)
