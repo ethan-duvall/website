@@ -3,6 +3,6 @@ title: "Research"
 output: html_document
 ---
 
-**Birds, Rivers, Conservation**
+**Ecology, Ornithology, and Conservation**
 
 ## *In Construction*
