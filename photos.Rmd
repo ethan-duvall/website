@@ -13,9 +13,9 @@ output: html_document
 
 ![Bald Eagle on the Nooksack River, WA *Photo by my good friend Lucas Gibbons* (12/12/2018)](C:\Github\Repositories\website\images\lucas_eagle.jpg)
 
-![Tracking mountain goats w/ Randy Jones through old growth, Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\ethan_and_randy.jpg)
+![Tracking mountain goats w/ Randy, Darrington, WA (9/17/2018)](C:\Github\Repositories\website\images\ethan_and_randy.jpg)
 
-![Research crew on the Grande Ronde river, OR (4/13/2019)](C:\Github\Repositories\website\images\grande_ronde.jpg)
+![River guiding on the Grande Ronde, OR (4/13/2019)](C:\Github\Repositories\website\images\grande_ronde.jpg)
 
 ![Deadwood, SD w/ Emily ❤ (9/26/2020)](C:\Github\Repositories\website\images\emily.jpg)
 
