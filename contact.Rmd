@@ -5,7 +5,7 @@ output: html_document
 
 *Ethan Duvall*
 
-I welcome opportunities for collaboration and would love to connect
+I would love to connect and explore opportunities for collaboration
 
 
 ### **Contact me: esd63[at]cornell.edu**
