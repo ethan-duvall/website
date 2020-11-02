@@ -43,7 +43,7 @@ output: html_document
 
 ![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Github\Repositories\website\images\westport_sky.jpg)
 
-![Exploring Yellowstone, WY (9/15/2020)](C:\Github\Repositories\website\images\caelan_yellowstone.jpg)
+![Caelan in Yellowstone, WY (9/15/2020)](C:\Github\Repositories\website\images\caelan_yellowstone.jpg)
 
 ![Juvenile Northern Goshawk, Hawk Watch Raptor Banding Site, Chelan Ridge (10/13/2018)](C:\Github\Repositories\website\images\goshawk.jpg)
 
