@@ -13,6 +13,7 @@
 
 <title>Contact</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -33,7 +34,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-      </style>
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -79,6 +80,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -389,7 +391,7 @@ div.tocify {
 
 
 <p><em>Ethan Duvall</em></p>
-<p>I would love to connect and explore opportunities for collaboration</p>
+<p>I’d love to connect</p>
 <div id="contact-me-esd63atcornell.edu" class="section level3">
 <h3><strong>Contact me: esd63[at]cornell.edu</strong></h3>
 <p>Cornell University</p>
@@ -409,7 +411,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
