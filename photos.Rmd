@@ -17,7 +17,7 @@ output: html_document
 
 ![River guiding on the Grande Ronde, OR (4/13/2019)](C:\Github\Repositories\website\images\grande_ronde.jpg)
 
-![Deadwood, SD w/ Emily ❤ (9/26/2020)](C:\Github\Repositories\website\images\emily.jpg)
+![Deadwood, SD w/ Emily (9/26/2020)](C:\Github\Repositories\website\images\emily.jpg)
 
 ![Exploring waterfalls with Luke in Monteverde, CR (6/28/2016)](C:\Github\Repositories\website\images\lukewater.jpg)
 
