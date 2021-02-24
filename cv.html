@@ -14,6 +14,7 @@
 
 <title>CV</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -34,7 +35,7 @@
   div.column{display: inline-block; vertical-align: top; width: 50%;}
   div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
   ul.task-list{list-style: none;}
-      </style>
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -80,6 +81,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -404,16 +406,22 @@ div.tocify {
 </div>
 <div id="honors-and-awards" class="section level2">
 <h2><strong>Honors and Awards</strong></h2>
-<p>•Thomas Henry Huxley Award Recipient – <em>“This award recipient demonstrated exceptional scholastic achievement and has been involved in the community, served Huxley College, and has shown all-around excellence in environmental studies”</em> 2019</p>
-<p>•Honorary Commencement Speaker - Western Washington University, Huxley College of the Environment: 2019</p>
-<p>•Cornell University First-year Graduate Fellow in Life Sciences: 2020</p>
-<p>•Dean’s Fund of Sustainability Studies Award; Huxley College of the Environment</p>
-<p>•Washington Chapter of The Wildlife Society Research Grant Award</p>
+<p>• Cornell University First-year Graduate Fellow in Life Sciences: 2020</p>
+<p>• Thomas Henry Huxley Award Recipient – <em>“This award recipient demonstrated exceptional scholastic achievement and has been involved in the community, served Huxley College, and has shown all-around excellence in environmental studies”</em> 2019</p>
+<p>• Honorary Commencement Speaker - Western Washington University, Huxley College of the Environment: 2019</p>
+</div>
+<div id="funds" class="section level2">
+<h2><strong>Funds</strong></h2>
+<p>• The Athena Fund for Research at the Cornell Lab of Ornithology</p>
+<p>• Atkinson Center for Sustainability: Sustainable Biodiversity Fund</p>
+<p>• Dean’s Fund of Sustainability Studies Award; Huxley College of the Environment</p>
+<p>• Washington Chapter of The Wildlife Society Research Grant Award</p>
 </div>
 <div id="publications" class="section level2">
 <h2><strong>Publications</strong></h2>
 <p>• Duvall, E. (<em>In Review</em>). Distributional Responses of Wintering Bald Eagles to Impacts of Climate Change in the Pacific Northwest. <em>Northwest Science</em></p>
 <p>• Duvall, E. and McLaughlin, J. (<em>In preparation</em>). Measuring restoration progress using river-dependent birds: Lessons from Elwha dam removal</p>
+<p>• Duvall, E. and Schwabe, E. (In Preparation). A rare mutualism between farmers and apex-predators: investigating the use of anthropogenic resources by eagles on dairy farms</p>
 <p>• Duvall, E. (<em>In Review</em>). Indigenous Methods of Hunting Waterfowl used by Lummi and Coast Salish Peoples <em>Journal of Northwest Anthropology</em></p>
 </div>
 <div id="presentations" class="section level2">
@@ -453,14 +461,12 @@ div.tocify {
 </div>
 <div id="skills-and-certificates" class="section level2">
 <h2><strong>Skills and Certificates</strong></h2>
-<p>• Certificate: River Studies and Leadership; River Science</p>
-<p>• ArcGIS Pro; ArcGIS Online; ESRI Products; QGIS</p>
-<p>• R, Rstudio, Python, SQL</p>
-<p>• Remote sensing; satellite imagery analysis; LiDAR</p>
-<p>• Radio Telemetry</p>
-<p>• Wildlife surveys methods: songbirds, riverbirds, carnivores, amphibians</p>
-<p>• Web map application development; Cartography</p>
-<p>• ACA Swiftwater Rescue Certificate: Level 2</p>
+<p>• Certificates: River Studies and Leadership; River Science; ACA Swiftwater Rescue Certificate: Level 2</p>
+<p>• GIS software: ArcGIS Pro; ArcGIS Online; ESRI Products; QGIS</p>
+<p>• Statistical languages/programs: R, RStudio, Python, SQL, MATLAB</p>
+<p>• Other software: Dragonfly, Google Earth engine, Ableton</p>
+<p>• Spatial data processing: Remote sensing; image analysis; LiDAR; radio telemetry</p>
+<p>• Wildlife survey methods: songbirds, riverbirds, raptors, carnivores, amphibians</p>
 </div>
 <div id="organizations-and-affiliations" class="section level2">
 <h2><strong>Organizations and Affiliations</strong></h2>
@@ -481,7 +487,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

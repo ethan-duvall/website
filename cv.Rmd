@@ -16,15 +16,22 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 ## **Honors and Awards**
 
-•Thomas Henry Huxley Award Recipient – *"This award recipient demonstrated exceptional scholastic achievement and has been involved in the community, served Huxley College, and has shown all-around excellence in environmental studies”* 2019
+• Cornell University First-year Graduate Fellow in Life Sciences: 2020
+ 
+• Thomas Henry Huxley Award Recipient – *"This award recipient demonstrated exceptional scholastic achievement and has been involved in the community, served Huxley College, and has shown all-around excellence in environmental studies”* 2019
 
-•Honorary Commencement Speaker - Western Washington University, Huxley College of the Environment: 2019
+• Honorary Commencement Speaker - Western Washington University, Huxley College of the Environment: 2019
 
-•Cornell University First-year Graduate Fellow in Life Sciences: 2020
 
-•Dean’s Fund of Sustainability Studies Award; Huxley College of the Environment
+## **Funds**
 
-•Washington Chapter of The Wildlife Society Research Grant Award
+• The Athena Fund for Research at the Cornell Lab of Ornithology
+
+• Atkinson Center for Sustainability: Sustainable Biodiversity Fund
+
+• Dean’s Fund of Sustainability Studies Award; Huxley College of the Environment
+
+• Washington Chapter of The Wildlife Society Research Grant Award 
 
 
 ## **Publications** 
@@ -33,6 +40,8 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 •	Duvall, E. and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
 birds: Lessons from Elwha dam removal
+
+• Duvall, E. and Schwabe, E. (In Preparation). A rare mutualism between farmers and apex-predators: investigating the use of anthropogenic resources by eagles on dairy farms
 
 •	Duvall, E. (*In Review*). Indigenous Methods of Hunting Waterfowl used by Lummi and Coast Salish Peoples *Journal of Northwest Anthropology*
 
@@ -111,21 +120,17 @@ Outdoor Recreational Guide, COMPASS OUTDOOR ADVENTURES
 
 ## **Skills and Certificates**
 
-•	Certificate: River Studies and Leadership; River Science
+•	Certificates: River Studies and Leadership; River Science; ACA Swiftwater Rescue Certificate: Level 2 
 
-•	ArcGIS Pro; ArcGIS Online; ESRI Products; QGIS
+• GIS software: ArcGIS Pro; ArcGIS Online; ESRI Products; QGIS
 
-•	R, Rstudio, Python, SQL
+• Statistical languages/programs: R, RStudio, Python, SQL, MATLAB
 
-•	Remote sensing; satellite imagery analysis; LiDAR
+• Other software: Dragonfly, Google Earth engine, Ableton 
 
-•	Radio Telemetry
+• Spatial data processing: Remote sensing; image analysis; LiDAR; radio telemetry
 
-•	Wildlife surveys methods: songbirds, riverbirds, carnivores, amphibians 
-
-•	Web map application development; Cartography
-
-•	ACA Swiftwater Rescue Certificate: Level 2 
+• Wildlife survey methods: songbirds, riverbirds, raptors, carnivores, amphibians
 
 
 ## **Organizations and Affiliations**

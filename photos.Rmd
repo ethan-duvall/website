@@ -7,6 +7,8 @@ output: html_document
 
 ![Yellowstone, WY, w/ Caelan (8/20/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_ethan_night.jpg)
 
+![Kicking back with a Brown Pelican (1/28/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_pelican.PNG)
+
 ![Black Hills NP, SD (8/26/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\black_hills.jpg)
 
 ![Dr. John McLaughlin, Grande Ronde River, OR (4/13/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\john.jpg)
@@ -51,4 +53,4 @@ output: html_document
 
 ![Badlands NP w/ Emily (9/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\emily_badlands.jpg)
 
-![North Cascades, Mt. Bkaer, WA (7/27/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\north_cascades.jpg)
+![North Cascades, Mt. Baker, WA (7/27/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\north_cascades.jpg)
