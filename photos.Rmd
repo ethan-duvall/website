@@ -7,7 +7,7 @@ output: html_document
 
 ![Yellowstone, WY, w/ Caelan (8/20/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_ethan_night.jpg)
 
-![Kicking back with a Brown Pelican (1/28/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_pelican.PNG)
+![Los Barriles, MX, w/ Brown Pelican (1/28/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_pelican.PNG)
 
 ![Black Hills NP, SD (8/26/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\black_hills.jpg)
 
@@ -21,31 +21,31 @@ output: html_document
 
 ![Deadwood, SD w/ Emily (9/26/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\emily.jpg)
 
-![Exploring waterfalls with Luke in Monteverde, CR (6/28/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lukewater.jpg)
+![Monteverde, CR w/ Luke (6/28/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lukewater.jpg)
 
 ![DFW Crew in the North Cascades, WA (9/22/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\campingout.jpg)
 
-![Riding at Mt. Baker, WA *Photo by Lucas Gibbons* (2/12/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\baker.jpg)
+![Mt. Baker, WA *Photo by Lucas Gibbons* (2/12/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\baker.jpg)
 
-![Scrambling mountain peaks in the North Cascades, WA w/ my good friend Forrest (9/15/2017)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\fmountains.jpg)
+![North Cascades, WA w/ my good friend Forrest (9/15/2017)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\fmountains.jpg)
 
-![*Herecium* Mushroom from Central Cascades, WA (8/6/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mushroom.jpg)
+![*Herecium* Mushroom, Central Cascades, WA (8/6/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mushroom.jpg)
 
 ![Tree frog in Costa Rica (6/22/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\treefrog.jpg)
 
 ![Huxley College Commencement Speech (6/22/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\speech.jpg)
 
-![Exploring slot canyons in Moab, UT w/ Lauren (7/13/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lauren_utah.jpg)
+![Moab, UT w/ Lauren (7/13/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lauren_utah.jpg)
 
 ![Devils Tower, WY w/ Emily (9/18/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\em2.jpg)
 
-![Enchantments, WA "Game recognize game" *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_goat.jpg)
+![Enchantments, WA *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_goat.jpg)
 
 ![Telluride CO, via ferrata *Photo taken by Lauren Duvall* (7/18/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_via.jpg)
 
-![Night sky in Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\westport_sky.jpg)
+![Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\westport_sky.jpg)
 
-![Caelan in Yellowstone, WY (9/15/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_yellowstone.jpg)
+![Yellowstone, WY, w/ Caelan (9/15/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_yellowstone.jpg)
 
 ![Juvenile Northern Goshawk, Hawk Watch Raptor Banding Site, Chelan Ridge (10/13/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\goshawk.jpg)
 
