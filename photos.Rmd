@@ -19,8 +19,6 @@ output: html_document
 
 ![River guiding on the Grande Ronde, OR (4/13/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\grande_ronde.jpg)
 
-![Deadwood, SD w/ Emily (9/26/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\emily.jpg)
-
 ![Monteverde, CR w/ Luke (6/28/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lukewater.jpg)
 
 ![DFW Crew in the North Cascades, WA (9/22/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\campingout.jpg)
