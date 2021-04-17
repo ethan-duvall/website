@@ -3,6 +3,25 @@ title: "Research"
 output: html_document
 ---
 
-**Ecology, Ornithology, Conservation**
+-------------
 
-## *In Construction*
+## **Wildlife responses to environmental change on rivers**
+
+> ### Riverbird responses to dam removal
+Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. My next goal is to examine riverbird responses to the removal of smaller stream barriers in tributaries of the Hudson River, NY. 
+
+• Duvall, E. and McLaughlin, J. In preparation. Measuring restoration progress using river-dependent 
+birds: Lessons from Elwha dam removal
+
+![Elwha River, WA](https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg)
+
+> ###  Bald eagle responses to declining salmon runs on Pacific Northwest rivers
+Each winter, thousands of Bald Eagles (Haliaeetus leucocephalus) from across western North America migrate to Pacific Northwest rivers to feed on the carcasses of post-spawning chum salmon (Oncorhynchus keta). However, declining salmon populations and impacts of climate change are reducing the availability of salmon carcasses as a wintering food source for eagles. My research has focused on eagles ability to adjust to these impacts, specifically by redistributing to non-river habitats. Our results suggest that the utilization of agricultural areas may be an important strategy for eagles as the availability of salmon carcasses continue to decline. Preliminary results of our follow-up study have shown that dairy farms are especially important, and that eagles may actually provide services to farmers by scavenging the discards of dairy facilities. 
+
+•	Duvall, E. (*In Press*). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science*
+
+• Duvall, E. and Schwabe, E. (In Preparation). A rare mutualism between farmers and apex-predators: investigating the use of anthropogenic resources by eagles on dairy farms
+
+
+![Nooksack River, WA](https://www.americanrivers.org/wp-content/uploads/2019/12/Cowell2-1-1024x682.jpg)
+https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/
