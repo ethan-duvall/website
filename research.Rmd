@@ -9,7 +9,7 @@ output: html_document
 
 -----
 > ### **Riverbird responses to dam removal**
-Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Are results also suggest that riverbirds can act as an integrative measure (indicator species) for river restoration proccesses. My next is goal is to examine waterbird responses to the removal of smaller, pervasive stream barriers in tributaries of the Hudson River, NY. 
+Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our results also suggest that riverbirds can act as an integrative measure (indicator species) for river restoration proccesses. My next is goal is to examine waterbird responses to the removal of smaller, pervasive stream barriers in tributaries of the Hudson River, NY. 
 
 • Duvall, E. and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
 birds: Lessons from Elwha dam removal
