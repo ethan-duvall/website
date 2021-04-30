@@ -5,7 +5,7 @@ date: "9/29/2020"
 output: html_document
 ---
 
-I am an ornithologist with broad interests in spatial ecology, tropical ecology, freshwater ecology, and ecological stoichiometry. I am particularly interested in wildlife responses to anthropogenic change and impacts of biodiversity loss on ecosystem function. I am largely motivated by issues of conservation and sustainability, and strive to conduct basic and applied research that improves the way we understand and protect biodiversity.
+I am an ornithologist with interests in tropical ecology, freshwater ecology, and ecological stoichiometry. Generally speakimg, I am interested in avian responses to anthropogenic change and impacts of biodiversity loss on ecosystem function. I am largely motivated by issues of conservation and sustainability, and strive to conduct basic and applied research that improves the way we understand and protect biodiversity.
 
 I am currently a PhD student in the Ecology and Evolutionary Biology Department at Cornell University. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water supply corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and find much of my inspiration out in the field. I grew up in the Cascade Mountains of Washington State and will always call the Pacific Northwest home.
 
