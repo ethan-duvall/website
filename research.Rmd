@@ -5,7 +5,7 @@ output: html_document
 
 -------------
 
-## **Wildlife responses to environmental change on rivers**
+## **Avian responses to human impacts on rivers**
 
 -----
 > ### **Riverbird responses to dam removal**
