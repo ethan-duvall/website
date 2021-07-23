@@ -4,40 +4,17 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
-
+## **2020**
+  
 ![Yellowstone, WY, w/ Caelan (8/20/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_ethan_night.jpg)
 
 ![Los Barriles, MX, w/ Brown Pelican (1/28/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_pelican.PNG)
 
 ![Black Hills NP, SD (8/26/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\black_hills.jpg)
 
-![Dr. John McLaughlin, Grande Ronde River, OR (4/13/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\john.jpg)
-
-![Bald Eagle on the Nooksack River, WA *Photo by my good friend Lucas Gibbons* (12/12/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lucas_eagle.jpg)
-
-![Tracking mountain goats w/ Randy, Darrington, WA (9/17/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_and_randy.jpg)
-
-![River guiding on the Grande Ronde, OR (4/13/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\grande_ronde.jpg)
-
-![Monteverde, CR w/ Luke (6/28/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lukewater.jpg)
-
-![DFW Crew in the North Cascades, WA (9/22/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\campingout.jpg)
-
-![Mt. Baker, WA *Photo by Lucas Gibbons* (2/12/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\baker.jpg)
-
-![North Cascades, WA w/ my good friend Forrest (9/15/2017)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\fmountains.jpg)
-
-![*Herecium* Mushroom, Central Cascades, WA (8/6/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mushroom.jpg)
-
-![Tree frog in Costa Rica (6/22/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\treefrog.jpg)
-
-![Huxley College Commencement Speech (6/22/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\speech.jpg)
-
 ![Moab, UT w/ Lauren (7/13/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lauren_utah.jpg)
 
 ![Devils Tower, WY w/ Emily (9/18/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\em2.jpg)
-
-![Enchantments, WA *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_goat.jpg)
 
 ![Telluride CO, via ferrata *Photo taken by Lauren Duvall* (7/18/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_via.jpg)
 
@@ -45,10 +22,38 @@ output: html_document
 
 ![Yellowstone, WY, w/ Caelan (9/15/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_yellowstone.jpg)
 
+![Badlands NP w/ Emily (9/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\emily_badlands.jpg)
+
+## **2019**
+  
+![Commencement speech given at Huxley College graduation, WWU (6/18/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\speech.jpg)
+  
+![Mt. Baker, WA *Photo by Lucas Gibbons* (2/12/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\baker.jpg)
+
+![Dr. John McLaughlin, Grande Ronde River, OR (4/13/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\john.jpg)
+
+![River guiding on the Grande Ronde, OR (4/13/2019)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\grande_ronde.jpg)
+
+## **2018 (and earlier)**
+
+![North Cascades, Mt. Baker, WA (7/27/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\north_cascades.jpg)
+
 ![Juvenile Northern Goshawk, Hawk Watch Raptor Banding Site, Chelan Ridge (10/13/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\goshawk.jpg)
 
 ![CR w/ Luke (5/06/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\\luke_kayak.jpg)
 
-![Badlands NP w/ Emily (9/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\emily_badlands.jpg)
+![Enchantments, WA *Photo taken my FOrrest GOlic* (7/5/2015)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_goat.jpg)
 
-![North Cascades, Mt. Baker, WA (7/27/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\north_cascades.jpg)
+![Tree frog in Costa Rica (6/22/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\treefrog.jpg)
+
+![Bald Eagle on the Nooksack River, WA *Photo by my good friend Lucas Gibbons* (12/12/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lucas_eagle.jpg)
+
+![Monteverde, CR w/ Luke (6/28/2016)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lukewater.jpg)
+
+![DFW Crew in the North Cascades, WA (9/22/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\campingout.jpg)
+
+![Tracking mountain goats w/ Randy, Darrington, WA (9/17/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_and_randy.jpg)
+
+![North Cascades, WA w/ my good friend Forrest (9/15/2017)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\fmountains.jpg)
+
+![*Herecium* Mushroom, Central Cascades, WA (8/6/2018)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mushroom.jpg)
