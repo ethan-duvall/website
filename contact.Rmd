@@ -5,10 +5,8 @@ output: html_document
 
 *Ethan Duvall*
 
-I'd love to connect
 
-
-### **Contact me: esd63[at]cornell.edu**
+### **esd63[at]cornell.edu**
 
 
 Cornell University
