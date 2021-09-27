@@ -18,7 +18,7 @@ Dam removal has become a priority for the conservation of freshwater biodiversit
 • Duvall, E. and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
 birds: Lessons from Elwha dam removal
 
-• Buchanan, B., et al. (*In review*) A Machine Learning Approach to Identify Barriers in Stream Networks Demonstrates High Prevalence of Unmapped Riverine Dams 
+• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (In Press) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management
 
 ![Elwha River, WA](https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg)
 http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
