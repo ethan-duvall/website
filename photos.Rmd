@@ -6,13 +6,17 @@ output: html_document
 ---
 ## **2021**
 
-![Scarlet Tanager, Braddock Bay (4/29/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\warb.jpg) 
+![Banding a Blackburnian Warbler, Braddock Bay (4/29/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\warb.jpg)
 
 ![Magnolia Warbler, Braddock Bay (4/27/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\magnolia2.jpg) 
 
 ![cayuga Lake fishing, Ithaca, NY (3/13/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\cayuga.jpg) 
 
 ![Scarlet Tanager, Braddock Bay (5/1/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\scarlet.jpg) 
+
+![Houseboat w/ flock (7/12/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\house-boat.jpg)
+
+![Ithaca summer (8/10/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ithaca-caelan.jpg)
 
 ## **2020**
   
@@ -21,6 +25,8 @@ output: html_document
 ![Los Barriles, MX, w/ Brown Pelican (1/28/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_pelican.PNG)
 
 ![Black Hills NP, SD (8/26/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\black_hills.jpg)
+
+![Bison bone Yellowstone (8/29/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_bone.jpg)
 
 ![Moab, UT w/ Lauren (7/13/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\lauren_utah.jpg)
 
