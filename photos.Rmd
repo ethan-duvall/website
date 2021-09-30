@@ -4,6 +4,16 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
+## **2021**
+
+![Scarlet Tanager, Braddock Bay (4/29/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\warb.jpg) 
+
+![Magnolia Warbler, Braddock Bay (4/27/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\magnolia2.jpg) 
+
+![cayuga Lake fishing, Ithaca, NY (3/13/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\cayuga.jpg) 
+
+![Scarlet Tanager, Braddock Bay (5/1/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\scarlet.jpg) 
+
 ## **2020**
   
 ![Yellowstone, WY, w/ Caelan (8/20/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_ethan_night.jpg)
@@ -21,6 +31,8 @@ output: html_document
 ![Westport, WA *Photo taken my Markelle* (7/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\westport_sky.jpg)
 
 ![Yellowstone, WY, w/ Caelan (9/15/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\caelan_yellowstone.jpg)
+
+![Atlantic Salmon, Fall Creek, Ithaca  (10/20/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\salmon.jpg) 
 
 ![Badlands NP w/ Emily (9/10/2020)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\emily_badlands.jpg)
 
