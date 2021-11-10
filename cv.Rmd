@@ -35,7 +35,7 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 •	**Duvall, E.** (*In Press*). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science*
 
-•	Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. (*In Press*) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management*
+•	Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management* https://doi.org/10.1016/j.jenvman.2021.113952
 
 •	**Duvall, E.** and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
 birds: Lessons from Elwha dam removal
@@ -45,6 +45,8 @@ birds: Lessons from Elwha dam removal
 •	**Duvall, E.** (*In Review*). Indigenous Methods of Hunting Waterfowl used by Lummi and Coast Salish Peoples *Journal of Northwest Anthropology*
 
 ## **Presentations**
+
+•	**Duvall, E., McLaughlin, J.** (2021) Riverbird responses to dam removals on the Elwha River *Olympic National Park Science Symposium*
 
 •	**Duvall, E.** (2019) Nooksack River Bald Eagles: Current Status and Conservation Recommendations. *Whatcom Wildlife Advisory Committee*
 
