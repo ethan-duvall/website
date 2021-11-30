@@ -46,7 +46,7 @@ birds: Lessons from Elwha dam removal
 
 ## **Presentations**
 
-•	**Duvall, E., McLaughlin, J.** (2021) Riverbird responses to dam removals on the Elwha River *Olympic National Park Science Symposium*
+•	**Duvall, E.**, McLaughlin, J. (2021) Riverbird responses to dam removals on the Elwha River *Olympic National Park Science Symposium*
 
 •	**Duvall, E.** (2019) Nooksack River Bald Eagles: Current Status and Conservation Recommendations. *Whatcom Wildlife Advisory Committee*
 
@@ -102,6 +102,8 @@ Outdoor Recreational Guide, COMPASS OUTDOOR ADVENTURES
 • Committee Member: North Bend Parks and Recreation: 2014-2016
 
 ## **Activities and Volunteer Work**
+
+• Youth Mentor: The Learning Web, Ithaca, NY
 
 • Adviser: BirdBot Artificial Intelligence https://www.bird.bot/
 

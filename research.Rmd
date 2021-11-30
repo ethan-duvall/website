@@ -17,13 +17,15 @@ output: html_document
 
 - - - -
 
-## *In construction*
-
-## **Calcium foraging behavior of wild birds**
+## **Calcium and birds: ecological interactions**
 <details>
   <summary>Click to learn more</summary>
 
-*In construction*
+-----
+> ### **Calcium foraging behavior and preferences**
+Eggs-shells are made almost entirely out of calcium carbonate (CaCO3), yet the diet of nearly all non-carnivorous birds lacks sufficient calcium for egg-laying. In order to lay eggs and to rapdily grow skeletons upon birth, birds must locate and consume calcium-rich supplements in the wild. My research aims to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, season, and habitat. Our current research takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
+
+![Tufted titmouse interacting with snail shells at camera trap station (5/2/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\calcium_tit.jpg)
 
 </details> 
 
@@ -35,7 +37,7 @@ output: html_document
 
 -----
 > ### **Riverbird responses to dam removal**
-Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators for monitoring river restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY. 
+Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators of restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY. 
 
 • Duvall, E. and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
 birds: Lessons from Elwha dam removal
