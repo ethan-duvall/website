@@ -23,7 +23,7 @@ output: html_document
 
 -----
 > ### **Calcium foraging behavior and preferences**
-Eggs-shells are made almost entirely out of calcium carbonate (CaCO3), yet the diet of nearly all non-carnivorous birds lacks sufficient calcium for egg-laying. In order to lay eggs, birds must locate and consume calcium-rich supplements in the wild. My research aims to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, season, and habitat. Our current research takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
+Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonate (CaCO3); yet the diet of nearly all non-carnivorous birds lacks sufficient calcium for egg-laying. Nestlings also need additional calcium for rapid skeletal growth during the breeding season. In order to meet these calcium requirments, birds must locate and consume calcium-rich material within their respective environments. My research aims to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, calcium sources, season, and habitat. Our current research takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
 
 ![Tufted titmouse interacting with snail shells at camera trap station (5/2/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\calcium_tit.jpg)
 
