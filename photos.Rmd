@@ -4,6 +4,12 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
+## **2022**
+
+![Chambira jumped right into our boat (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\river_joe.jpg)
+
+![Heading up the Sucusari (1/10/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\chambira.jpg)
+
 ## **2021**
 
 ![Banding a Blackburnian Warbler, Braddock Bay (4/29/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\warb.jpg)
