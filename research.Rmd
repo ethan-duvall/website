@@ -5,13 +5,29 @@ output: html_document
 
 -------------
 
-## *In construction*
 
 ## **Nutrient cycling by birds: stoichiometry and functioning**
 <details>
   <summary>Click to learn more</summary>
 
-*In construction*
+-----
+> 
+As highly mobile, abundant, and ubiquitous organisms, birds can have large impacts on ecosystem structure and function through their ability to recycle and redistribute important nutrients. The extent of these impacts depends on many things, including bird abundance and movement, stoichiometry of excreta, and the respective ecosystem nutrient budgets. My current research aims to synthesize the vast literature focused on the roles that birds play as nutrient recycling agents including a meta-analysis of waste stoichiometry and a review of avian impacts on ecosystem structure and function. By conducting this synthesize, I hope to shed light on the important sustaining services that birds provide through their roles in biogeochemcial cycling. 
+
+![Relationship between stoichiometry of recycled nutrients and avian foraging guild (2/10/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\bird_NP.jpg)
+
+</details> 
+
+- - - -
+
+## **Ecological stoichiometry: animals and  mineral licks in Amazon Rainforest**
+<details>
+  <summary>Click to learn more</summary>
+
+-----
+> Despite being one of the most biodiverse regions of the world, the Amazon Rainforest is a highly nutrient limiting environment. This is particularly true for Na (sodium), which lacks major ecosystem inputs due to coastal salt deposition being blocked by the Andes while also being subject to rapid leaching within the environment due to heavy precipitation and absence of retention within vegetation. This creates challenges for mammalian herbivores, which lack adequete sodium in their diets. In order to counter these dietary defficiencies, animals seek out and ingest mineral rich soils within their environment. While the importance of Na as a limiting nutrient for all secondary consumers is clear, our understanding of the role that animals play in Na cycling remains poorly understnad. My current research focuses on the role of mammalian herbivores as nutrient vectors, dispersing nutrients away from mineral licks and influencing Na availability for secondary consumers.
+
+![Paca eating from a mineral lick, Sucusari, Peru (5/2/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\paca.jpg)
 
 </details> 
 
