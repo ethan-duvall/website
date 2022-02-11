@@ -14,7 +14,7 @@ output: html_document
 
 ![Scarlet Tanager, Braddock Bay (5/1/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\scarlet.jpg) 
 
-![Houseboat w/ flock (7/12/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\house-boat.jpg)
+![Lake Rosevelt, WA (7/12/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\house-boat.jpg)
 
 ![Ithaca summer (8/10/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ithaca-caelan.jpg)
 
