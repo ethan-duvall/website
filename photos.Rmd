@@ -6,6 +6,12 @@ output: html_document
 ---
 ## **2022**
 
+![Birdwatching outside Iquitos
+(1/15/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\iquitos_flood.jpg)
+
+![Clay lick used heavily by Tapir
+(1/15/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir_lick.jpg)
+
 ![Chambira jumped right into our boat (1/10/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\chambira.jpg)
 
 ## **2021**
