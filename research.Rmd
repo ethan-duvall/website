@@ -14,8 +14,6 @@ output: html_document
 > ### Stoichiometry and Functioning
 As highly mobile, abundant, and ubiquitous organisms, birds can have large impacts on ecosystem structure and function through their ability to recycle and redistribute important nutrients. The extent of these impacts depends on a birds abundance, movement patterns, stoichiometry of excreta, and the recipient ecosystem nutrient budgets. My current research aims to synthesize the vast literature focused on the roles that birds play as nutrient recycling agents including a meta-analysis of waste stoichiometry and a review of avian impacts on ecosystem structure and function. I hope to shed light on the important sustaining services that birds provide through their roles in biogeochemical cycling. 
 
-![Relationship between stoichiometry of recycled nutrients and avian foraging guild (2/10/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\bird_NP.jpg)
-
 </details> 
 
 - - - -
