@@ -11,7 +11,7 @@ output: html_document
   <summary>Click to learn more</summary>
 
 -----
-> ### Stoichiometry and Functioning
+> ### **Stoichiometry and Functioning**
 As highly mobile, abundant, and ubiquitous organisms, birds can have large impacts on ecosystem structure and function through their ability to recycle and redistribute important nutrients. The extent of these impacts depends on a birds abundance, movement patterns, stoichiometry of excreta, and the recipient ecosystem nutrient budgets. My current research aims to synthesize the vast literature focused on the roles that birds play as nutrient recycling agents including a meta-analysis of waste stoichiometry and a review of avian impacts on ecosystem structure and function. I hope to shed light on the important sustaining services that birds provide through their roles in biogeochemical cycling. 
 
 ![Yellow-rumped Cacique depositing its nutrients into palm swamp in Sucusari, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
@@ -25,7 +25,7 @@ As highly mobile, abundant, and ubiquitous organisms, birds can have large impac
   <summary>Click to learn more</summary>
 
 -----
-> ### Ecological stoichiometry and Na cycling by animals
+> ### **Ecological stoichiometry and Na cycling by animals**
 Despite being one of the most biodiverse regions in the world, the Amazon Rainforest is a highly nutrient limiting environment. This is particularly true for Sodium (Na), which lacks major ecosystem inputs due to coastal salt deposition being blocked by the Andes, while also being subject to rapid leaching within the environment due to heavy precipitation and lack of retention within vegetation. This creates challenges for mammalian herbivores who are unable to ubtain sufficient Na within their natural diet. In order to counter these dietary defficiencies, animals seek out and ingest mineral rich soils at unique microhabitats called mineral licks. While the importance of Na as a limiting nutrient for all secondary consumers is clear, our understanding of the role that animals play in Na cycling remains poorly understood. My current research links Na physiology with animal-soil interactions to quanitfy the role of mammalian herbivores as nutrient vectors throughout the forest.
 
 ![Paca eating from a mineral lick, Sucusari, Peru (1/21/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\paca.jpg)
@@ -34,12 +34,12 @@ Despite being one of the most biodiverse regions in the world, the Amazon Rainfo
 
 - - - -
 
-## **Calcium and birds: ecological interactions**
+## **Calcium selection by birds **
 <details>
   <summary>Click to learn more</summary>
 
 -----
-> ### **Calcium foraging behavior and preferences**
+> ### **Foraging behavior and preferences**
 Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonate (CaCO3); yet the diet of nearly all non-carnivorous birds lacks sufficient calcium for egg-laying. Nestlings also need additional calcium for rapid skeletal growth during the breeding season. In order to meet these calcium requirments, birds must locate and consume calcium-rich material within their respective environments. My research aims to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, calcium sources, season, and habitat. Our current research takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
 
 ![Tufted titmouse interacting with snail shells at camera trap station (5/2/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\calcium_tit.jpg)
