@@ -5,9 +5,14 @@ date: "9/29/2020"
 output: html_document
 ---
 
+
 I am an ecologist/ornithologist with interests in biogeochemistry, tropical ecology, and freshwater ecology (to name a few). My research focuses mainly on understanding wildlife responses to anthropogenic change and subsequent impacts on ecosystem functioning. I am largely motivated by issues of conservation and sustainability, and strive to conduct basic and applied research that improves the way we understand and protect biodiversity.
 
 I am currently a PhD student in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/). I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water supply corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and find much of my inspiration out in the field. I grew up in the Cascade Mountains of Washington State and will always call the Pacific Northwest home.
+
+Follow me on Instagram!: https://www.instagram.com/ethanduvall.ecology
+
+
 
 ![Ithaca, NY, 5/16/2021](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\canoe1.jpg)
 
