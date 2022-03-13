@@ -6,6 +6,9 @@ output: html_document
 ---
 ## **2022**
 
+![Many-banded Aracari in Sucusari, Loreto, Peru
+(1/15/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\aracari.jpg)
+
 ![Birdwatching outside Iquitos
 (1/15/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\iquitos_flood.jpg)
 
