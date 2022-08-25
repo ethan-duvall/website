@@ -33,8 +33,6 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 • Abraham, A., **Duvall, E.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (2022, *In press*). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology*
 
-•	Jensen, K., **Duvall, E.**,Frey, D., Geoghagen, E., Irons, M., Kreitinger, E., and C. Meija (*In review*). Barriers to effective environmental research: lessons for early career scientists from the response to the COVID-19 pandemic.
-
 •	**Duvall, E.** (2022). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://www.northwestscience.org/resources/Journal/AcceptedArticlesVol95/Duvall_AcceptedArticleInPress_NWSci_Vol95-3.4.pdf
 
 •	Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management* https://doi.org/10.1016/j.jenvman.2021.113952
