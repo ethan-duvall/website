@@ -6,13 +6,15 @@ output: html_document
 -------------
 
 
-## **Nutrient cycling by birds**
+## **Birds in biogeochemistry**
 <details>
   <summary>Click to learn more</summary>
 
 -----
 > ### **Stoichiometry and Functioning**
-As highly mobile, abundant, and ubiquitous organisms, birds can have large impacts on ecosystem structure and function through their ability to recycle and redistribute important nutrients. My current research examines drivers of variation in the body and waste stoichiometry of birds to underscore the mechanisms which influence how birds differentially mediate ecosystem processes. I hope to shed light on the important sustaining services that birds provide through their roles in biogeochemical cycling. 
+As highly mobile, abundant, and ubiquitous organisms, birds can have large impacts on ecosystem structure and function through their ability to recycle and redistribute important nutrients. My current research examines drivers of variation in the body and waste stoichiometry of birds to underscore the mechanisms which influence how birds differentially mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
+
+• Abraham, A., **Duvall, E.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (2022, *In press*). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* https://doi.org/10.1111/rec.13778 
 
 ![Yellow-rumped Cacique depositing its nutrients into palm swamp in Sucusari, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
 
@@ -26,7 +28,9 @@ As highly mobile, abundant, and ubiquitous organisms, birds can have large impac
 
 -----
 > ### **Animals, mineral licks, and Na cycling**
-Despite being one of the most biodiverse regions in the world, the Amazon Rainforest is in short supply of many important nutrients. This is particularly true for sodium (Na, salt), which lacks major ecosystem inputs or selective retention by vegetation. This creates challenges for herbivores which are unable to obtain sufficient Na within their natural diet. In order to counter these dietary defficiencies, animals display a number of behavioural adaptions, such as the ingestion of mineral rich soils at mineral licks. While the importance of Na as a constraint on secondary production and animal life history are agknowledged, the reciprical role that animals play in Na cycling remains poorly understood. My current research links Na physiology with animal-soil interactions to quanitfy the role of herbivores as nutrient vectors throughout the forest. This work takes place in the Napo river basin of the western Amazon. 
+Despite being one of the most biodiverse regions in the world, the Amazon Rainforest is in short supply of many important nutrients. This is particularly true for salt, or sodium (Na), which lacks major ecosystem inputs or selective retention by vegetation. This creates challenges for herbivores which are unable to obtain sufficient Na within their natural diet. To counter these defecits, animals display behaviorual adaptations such as ingestion of mineral rich soil and water at mineral licks. While the importance of Na as a constraint on secondary production and animal life history are known, the reciprical role that animals play in Na cycling remains poorly understood. Quantifying animal-roles in biogeochemical cycling is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment or animal populations themselves. My research examines these roles through spatially-explicit model simulations, biotic and abiotic field measurements, and study of anthropogenic disturbances in the western Amazon. 
+
+• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (*In review*). Allometry of sodium requirements and mineral lick use among herbivorous mammals.  
 
 ![Paca eating from a mineral lick, Sucusari, Peru (1/21/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir1.jpg)
 
@@ -56,8 +60,7 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
 > ### **Riverbird responses to dam removal**
 Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators of restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY. 
 
-• Duvall, E. and McLaughlin, J. (*In preparation*). Measuring restoration progress using river-dependent 
-birds: Lessons from Elwha dam removal
+• Duvall, E. and McLaughlin, J. (*In preparation*). River-dependent birds measure restoration following Elwha dam removals 
 
 • Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (In Press) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management
 
@@ -67,7 +70,7 @@ http://www.westernfrontonline.com/2019/01/10/environmental-science-students-anal
 > ###  **Bald eagle responses to declining salmon carcasses**
 Each winter, thousands of Bald Eagles from across western North America migrate to Pacific Northwest rivers to feed on the carcasses of post-spawning chum salmon. However, declining salmon populations and impacts of climate change are reducing the availability of salmon carcasses as a wintering food source for eagles. My research has focused on eagles ability to adjust to these impacts, specifically by redistributing to non-river habitats. My results suggest that the utilization of agricultural areas may be an important survival strategy for eagles as chum salmon carcasses continue to decline. Preliminary results of our follow-up study have shown that dairy farms are especially important, and that by feeding on dairy farm discards, eagles may actually provide services to farmers without conflict.
 
-•	**Duvall, E.** (2022). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://www.northwestscience.org/resources/Journal/AcceptedArticlesVol95/Duvall_AcceptedArticleInPress_NWSci_Vol95-3.4.pdf
+•	**Duvall, E.** (2022). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://doi.org/10.3955/046.095.0306 
 
 • **Duvall, E.**, Schwabe, E., and K. Steensma (*In review*). A rare win-win between farmers and apex-predators: investigating the use of anthropogenic resources by eagles on dairy farms
 
