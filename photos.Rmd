@@ -4,10 +4,12 @@ author: "ethan"
 date: "9/30/2020"
 output: html_document
 ---
-## **2022**
 
-## I can't keep up with photos on here lately! Most recent photos on instagram:
-## Instagram: https://www.instagram.com/ethanduvall.ecology
+**For most recent photos, follow my Instagram!**
+
+**`r icons::fontawesome("instagram")` - https://www.instagram.com/ethanduvall.ecology**
+
+## **2022**
 
 ![Many-banded Aracari in Sucusari, Loreto, Peru
 (1/15/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\aracari.jpg)
