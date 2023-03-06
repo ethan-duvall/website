@@ -62,7 +62,7 @@ Dam removal has become a priority for the conservation of freshwater biodiversit
 
 • Duvall, E. and McLaughlin, J. (*In preparation*). River-dependent birds measure restoration following Elwha dam removals 
 
-• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (In Press) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management https://doi.org/10.1016/j.jenvman.2021.113952
+• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management https://doi.org/10.1016/j.jenvman.2021.113952
 
 ![Elwha River, WA](https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg)
 http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
@@ -72,7 +72,7 @@ Each winter, thousands of Bald Eagles from across western North America migrate 
 
 •	**Duvall, E.** (2022). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://doi.org/10.3955/046.095.0306 
 
-• **Duvall, E.**, Schwabe, E., and K. Steensma (*In review*). A rare win-win between farmers and apex-predators: investigating the use of anthropogenic resources by eagles on dairy farms
+• **Duvall, E.**, Schwabe, E., and K. Steensma (2023). A win-win between farmers and an apex-predator: investigating the relationship between bald eagles and dairy farms. *Ecosphere* DOI:10.1002/ecs2.4456
 
 
 ![Nooksack River, WA](https://www.americanrivers.org/wp-content/uploads/2019/12/Cowell2-1-1024x682.jpg)
