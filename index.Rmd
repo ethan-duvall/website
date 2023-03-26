@@ -19,7 +19,7 @@ I am currently a PhD student in the Ecology and Evolutionary Biology Department 
 
 **`r icons::fontawesome("twitter")` - Follow me on Twitter: [https://twitter.com/DuvallEcology](https://twitter.com/DuvallEcology){target="_blank"}**
 
-**`r icons::fontawesome("twitter")` - Google Scholar Profile: [https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en](https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en){target="_blank"}**
+**`r icons::fontawesome("google")` - Google Scholar Profile: [https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en](https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en){target="_blank"}**
  <hr /> 
  
 # Recent blogs and media
@@ -29,7 +29,7 @@ I am currently a PhD student in the Ecology and Evolutionary Biology Department 
 
 **`r icons::fontawesome("newspaper")` - [USA TODAY ARTICLE:
 "Climate change washed away bald eagles' food.
-Now these eagles are becoming farm birds. ](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/){target="_blank"}**
+Now these eagles are becoming farm birds." ](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/){target="_blank"}**
 
  <hr /> 
 
