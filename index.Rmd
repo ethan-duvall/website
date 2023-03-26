@@ -5,9 +5,9 @@ date: "12/02/2022"
 output: html_document
 ---
 
-I am an ecologist with particular interests in wildlife and biogeochemistry (nutrient cycling). In general, my research examines wildlife responses to anthropogenic change and subsequent impacts on ecosystems. Most of my work focuses on the role of vertebrates in terrestrial nutrient cycles - bridging gaps between animal ecology (nutrition, physiology, movement, and behavior), biogeochemistry, and ecosystem functioning. I am largely motivated by issues of conservation and sustainability and strive to conduct basic and applied research that improves the way we understand and protect biodiversity.
+I am an ecologist with particular interests in wildlife and biogeochemistry (nutrient cycling). In general, my research examines wildlife responses to anthropogenic change and subsequent impacts on ecosystems. Most of my work focuses on vertebrates and terrestrial nutrient cycles - bridging gaps between animal science (ecology, nutrition, physiology, movement, and behavior), biogeochemistry, and ecosystem functioning. I am largely motivated by issues of conservation and sustainability and strive to conduct basic and applied research that improves the way we understand and protect biodiversity.
 
-I am currently a PhD student in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/){target="_blank"}. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water supply corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and am passionate about being in the field. I grew up in the Cascade Mountains of Washington State and will always call the Pacific Northwest home.
+I am currently a PhD student in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/){target="_blank"} working between New York and the Ecuadorian Amazon. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water supply corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and am passionate about being in the field. I grew up in the Cascade Mountains of Washington State and will always call the Pacific Northwest home.
 
 ```{r setup, include=FALSE}
 #remotes::install_github("mitchelloharawild/icons")
@@ -18,7 +18,21 @@ I am currently a PhD student in the Ecology and Evolutionary Biology Department 
 **`r icons::fontawesome("instagram")` - Follow me on Instagram: [https://www.instagram.com/ethanduvall.ecology](https://www.instagram.com/ethanduvall.ecology){target="_blank"}**
 
 **`r icons::fontawesome("twitter")` - Follow me on Twitter: [https://twitter.com/DuvallEcology](https://twitter.com/DuvallEcology){target="_blank"}**
+
+**`r icons::fontawesome("twitter")` - Google Scholar Profile: [https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en](https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en){target="_blank"}**
  <hr /> 
+ 
+# Recent blogs and media
+
+
+**`r icons::fontawesome("pen")` - [BLOG: Reflections On Ecotourism And Wildlife Conservation In The Peruvian Amazon](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/){target="_blank"}**
+
+**`r icons::fontawesome("newspaper")` - [USA TODAY ARTICLE:
+"Climate change washed away bald eagles' food.
+Now these eagles are becoming farm birds. ](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/){target="_blank"}**
+
+ <hr /> 
+
 
 ![Ithaca, NY, 5/16/2021](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\canoe1.jpg)
 

@@ -12,11 +12,11 @@ output: html_document
 
 -----
 > ### **Stoichiometry and Functioning**
-Birds are highly mobile, abundant, and metabolically active organisms, allowing them to alter ecosystem structure and function through their ability to recycle and redistribute important nutrients. My current research examines drivers of variation in the body and waste stoichiometry (nutrient content) of birds to underscore the mechanisms which influence how birds differentially mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
+Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds differentially mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
 
-• Abraham, A., **Duvall, E.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (2022, *In press*). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* https://doi.org/10.1111/rec.13778 
+• Abraham, A., **Duvall, E.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (**2022**). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* https://doi.org/10.1111/rec.13778 
 
-![A yellow-rumped Cacique I captured depositing nutrients into a palm swamp in Sucusari, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
+![A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
 
 </details> 
 
@@ -28,7 +28,7 @@ Birds are highly mobile, abundant, and metabolically active organisms, allowing 
 
 -----
 > ### **Animals, mineral licks, and Na cycling**
-Despite being one of the most biodiverse regions in the world, the rainforests of western Amazonia are in short supply of many important nutrients. This is particularly true for sodium (Na), which lacks major ecosystem inputs and selective retention by plants. Consequently, herbivores face challenges in obtaining sufficient Na within their natural diet. While Na shortfall has been shown to limit production of smaller organisms (such as termites) and their impact on ecosystems (such as decomposition), large herbivores are able to seek unique areas called mineral licks to ingest Na-rich soil and water. While the importance of Na on ecosystem functioning are well understood, the role that animals play in Na cycling remains poorly understood. Quantifying animal-roles in biogeochemical cycling is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment (e.g., oil extraction in western Amazonia) or animal populations themselves (e.g., game hunting). My research examines these roles through spatially-explicit model simulations, biotic and abiotic field measurements, and study of anthropogenic disturbances in the western Amazon. 
+Despite its exceptional biodiversity, the rainforests of western Amazonia are in short supply of many important nutrients. This is particularly true for sodium (Na), which lacks major ecosystem inputs and selective retention by plants. Consequently, plant consumers (herbivores) face challenges in obtaining sufficient Na within their natural diet. While Na shortfall has been shown to limit production of smaller organisms (such as termites) and their impact on ecosystems (such as decomposition), large herbivores are able to seek areas called mineral licks to ingest Na-rich soil and water. While the importance of Na on ecosystem functioning is more clear, the role that animals play in Na cycling remains poorly understood. Quantifying animal-roles in biogeochemical cycling is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment (e.g., oil extraction in western Amazonia) or animal populations themselves (e.g., game hunting). My research examines these roles through spatially-explicit model simulations, biotic and abiotic field measurements, and study of anthropogenic disturbances in the western Amazon. 
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (*In review*). Allometry of sodium requirements and mineral lick use among herbivorous mammals.  
 
