@@ -22,13 +22,16 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 - - - -
 
-## **Mammals, mineral licks, and Na cycling in the Amazon**
+## **Sodium ecology of large herbivores**
 <details>
   <summary>Click to learn more</summary>
 
 -----
-> ### **Animals, mineral licks, and Na cycling**
-Despite its exceptional biodiversity, the rainforests of western Amazonia are in short supply of many important nutrients. This is particularly true for sodium (Na), which lacks major ecosystem inputs and selective retention by plants. Consequently, plant consumers (herbivores) face challenges in obtaining sufficient Na within their natural diet. While Na shortfall has been shown to limit production of smaller organisms (such as termites) and their impact on ecosystems (such as decomposition), large herbivores are able to seek areas called mineral licks to ingest Na-rich soil and water. While the importance of Na on ecosystem functioning is more clear, the role that animals play in Na cycling remains poorly understood. Quantifying animal-roles in biogeochemical cycling is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment (e.g., oil extraction in western Amazonia) or animal populations themselves (e.g., game hunting). My research examines these roles through spatially-explicit model simulations, biotic and abiotic field measurements, and study of anthropogenic disturbances in the western Amazon. 
+
+Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. Sodium is essential for animal growth and maintenance, but typically non-essential, and often toxic, for plants. As a result, most plants uptake Na passively, leading to low foliar Na concentrations in Na-poor ecosystems (e.g., non-coastal). This induces a unique stoichiometric mismatch between herbivores and their food that can lead to Na limitation. Our research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.
+
+> ### **Mineral licks and Na cycling in western Amazonia**
+The western Amazon is one of the most Na-poor regions in the world. High precipitation, temperatures, and humidity lead to rapid nutrient leaching, while it's position relative to the Andes and ocean impedes external Na input. Consequently, plant consumers (herbivores) face challenges in obtaining sufficient Na within their natural diet. While Na shortfall has been shown to constrain smaller organisms (such as termites) and their ecosystem impacts (such as decomposition), large herbivores can seek out mineral licks, areas where animals visit to ingest Na-rich soil and water. While the importance of Na as a driver of mineral lick-use and ecosystem functioning is increasingly understood, the subsequent role of large herbivores in Na cycling remains overlooked. Quantifying such roles is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment (e.g., oil extraction in western Amazonia) or animal populations themselves (e.g., game hunting). My research addresses these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (*In review*). Allometry of sodium requirements and mineral lick use among herbivorous mammals.  
 
@@ -38,7 +41,7 @@ Despite its exceptional biodiversity, the rainforests of western Amazonia are in
 
 - - - -
 
-## **Ca selection by birds **
+## **Calcium selection by birds **
 <details>
   <summary>Click to learn more</summary>
 
@@ -72,7 +75,7 @@ Each winter, thousands of Bald Eagles from across western North America migrate 
 
 •	**Duvall, E.** (2022). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://doi.org/10.3955/046.095.0306 
 
-• **Duvall, E.**, Schwabe, E., and K. Steensma (2023). A win-win between farmers and an apex-predator: investigating the relationship between bald eagles and dairy farms. *Ecosphere* DOI:10.1002/ecs2.4456
+• **Duvall, E.**, Schwabe, E., and K. Steensma (2023). A win-win between farmers and an apex-predator: investigating the relationship between bald eagles and dairy farms. *Ecosphere* https://doi.org/10.1002/ecs2.4456
 
 
 ![Nooksack River, WA](https://www.americanrivers.org/wp-content/uploads/2019/12/Cowell2-1-1024x682.jpg)
