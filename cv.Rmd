@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Ethan Duvall"
-date: "9/30/2020"
+date: "3/26/2023"
 output: html_document
 ---
 
@@ -30,6 +30,8 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 ## **Publications** 
 
+•	**Duvall, E.** (<span style="color:red">*In Review*</span>). Geophagy by red howler monkeys (*Alouatta seniculus*) driven by human urine supply
+
 •	**Duvall, E.** and McLaughlin, J. (<span style="color:red">*In Review*</span>). Evaluating river-dependent birds as restoration indicators after Elwha dam removals
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (<span style="color:red">*In Review*</span>). Allometry of sodium requirements and   mineral lick use among herbivorous mammals.  
@@ -44,46 +46,34 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 •	**Duvall, E.** (<span style="color:red">**2022**</span>). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://doi.org/10.3955/046.095.0306 
 
+
 ## **Presentations**
 
-• **Duvall, E.**, Flecker, A., Derry, L. (<span style="color:red">**2022**</span>) Stoichiometry of birds and implications for ecosystem ecology. *Ecological Society of America (ESA)*
+• **Duvall, E.**, McIntyre, P., Derry, L., Flecker, A.  (<span style="color:red">**2023**</span>) Patterns and mechanisms of variation in the body ionomics of birds. *Conference on Biological Stoichiometry* - <span style="color:green">Awarded best student talk</span>
 
-• **Duvall, E.**, McLaughlin, J. (<span style="color:red">**2022**</span>) Riverbird responses to dam removals on the Elwha River. *Salish Sea Ecosystem Conference*
+• **Duvall, E.**, Derry, L., Flecker, A. (<span style="color:red">**2022**</span>) Stoichiometry of birds and implications for ecosystem ecology. *Ecological Society of America (ESA)*
+
+• **Duvall, E.**, McLaughlin, J. (<span style="color:red">**2022**</span>) Evaluating river-dependent birds as restoration indicators after Elwha dam removals. *Salish Sea Ecosystem Conference*
 
 •	**Duvall, E.**, McLaughlin, J. (<span style="color:red">**2021**</span>) Riverbird responses to dam removals on the Elwha River *Olympic National Park Science Symposium*
 
 •	**Duvall, E.** (<span style="color:red">**2019**</span>) Nooksack River Bald Eagles: Current Status and Conservation Recommendations. *Whatcom Wildlife Advisory Committee*
 
-•	**Duvall, E.** (<span style="color:red">**2019**</span>) Measuring restoration progress using river-dependent birds: Lessons from Elwha dam removal. *Salish Sea Ecosystem Conference* https://ssec.confex.com/ssec/2020/meetingapp.cgi/Paper/5736
+•	**Duvall, E.** (<span style="color:red">**2019**</span>) Measuring restoration progress using river-dependent birds: Lessons from Elwha dam removal. *Salish Sea Ecosystem Conference*
 
 •	**Duvall, E.**, Jones, R., and Pollack, S. (<span style="color:red">**2018**</span>) River-dependent bird responses to impacts of dam removal. *Western Washington University Scholars Week*
 
-## **Articles and Links**
+
+## **Blog articles**
+
+•	Duvall, E. (2023, January 18). Reflections On Ecotourism And Wildlife Conservation In The Peruvian Amazon [Blog post]. Retrieved from 
+https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/
 
 •	Duvall, E. (2019, December 11). Eagles, Salmon, and a Free-flowing River [Blog post]. Retrieved from 
 https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/
 
 •	Duvall, E. (2020, June 20). Why save water in the PNW? [Blog post]. Retrieved from https://weneedwater.org/why-conserve-water-in-the-pnw/
 
-•	Speech given at the 2019 Huxley College of the Environment commencement ceremony:
-“2019 Huxley Graduation THH Winner Ethan Duvall Speech”
-https://www.youtube.com/watch?v=t4MsRdLxKiE
-
-•	Short film about my undergraduate research, produced by Western Washington University:
-“WWU Give Day ’19 Video| Ethan Duvall | Huxley Ecology Research”
-	https://vimeo.com/336206305
-
-•	Article about my research on the Elwha River, written by the Western Front:
-“Environmental Science Students Analyze a River Reborn”
-http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
-
-•	Video feature about the importance of education and action in conservation issues:
-"Education and Action - Luke Duvall #WeNeedWater"
-https://www.youtube.com/watch?v=FYlf_vfEEno&t=30s
-
-•	Video I directed promoting community engagement in keeping rivers clean:
-"Protecting Clean Water as a COmmunity #WeNeedWater"
-https://www.youtube.com/watch?v=pmuJgfw4vSE
 
 ## **Professional Experience**
 
@@ -144,6 +134,8 @@ Outdoor Recreational Guide, COMPASS OUTDOOR ADVENTURES
 
 
 ## **Organizations and Affiliations**
+
+•	Association for Tropical Biology and Conservation member 2022-current
 
 •	Ecological Society of America member 2022-current
 
