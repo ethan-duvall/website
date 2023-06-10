@@ -14,6 +14,8 @@ output: html_document
 > ### **Stoichiometry and Functioning**
 Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds differentially mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
 
+• **Duvall, E.**, Derry, L., Mcyntire, P., and A Flecker (*In preperation*). Patterns and mechanisms of variation in the elemental composition of birds.
+
 • Abraham, A., **Duvall, E.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (**2022**). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* https://doi.org/10.1111/rec.13778 
 
 ![A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
@@ -33,7 +35,7 @@ Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. 
 > ### **Mineral licks and Na cycling in western Amazonia**
 The western Amazon is one of the most Na-poor regions in the world. High precipitation, temperatures, and humidity lead to rapid nutrient leaching, while it's position relative to the Andes and ocean impedes external Na input. Consequently, plant consumers (herbivores) face challenges in obtaining sufficient Na within their natural diet. While Na shortfall has been shown to constrain smaller organisms (such as termites) and their ecosystem impacts (such as decomposition), large herbivores can seek out mineral licks, areas where animals visit to ingest Na-rich soil and water. While the importance of Na as a driver of mineral lick-use and ecosystem functioning is increasingly understood, the subsequent role of large herbivores in Na cycling remains overlooked. Quantifying such roles is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment (e.g., oil extraction in western Amazonia) or animal populations themselves (e.g., game hunting). My research addresses these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
 
-• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (*In review*). Allometry of sodium requirements and mineral lick use among herbivorous mammals.  
+• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
 
 ![Tapir visiting a mineral lick at Tiputini Biodiversity Station, Orellana, Ecuador (1/21/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir1.jpg)
 
@@ -63,7 +65,7 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
 > ### **Riverbird responses to dam removal**
 Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators of restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY. 
 
-• Duvall, E. and McLaughlin, J. (*In preparation*). River-dependent birds measure restoration following Elwha dam removals 
+• Duvall, E. and McLaughlin, J. (*In review*). River-dependent birds measure restoration following Elwha dam removals 
 
 • Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management https://doi.org/10.1016/j.jenvman.2021.113952
 
