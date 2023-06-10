@@ -1,7 +1,7 @@
 ---
 title: "About me"
 author: "Ethan Duvall | PhD Student @ Cornell University"
-date: "12/02/2022"
+date: "6/02/2023"
 output: html_document
 ---
 
@@ -22,14 +22,16 @@ I am currently a PhD student in the Ecology and Evolutionary Biology Department 
 **`r icons::fontawesome("google")` - Google Scholar Profile: [https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en](https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en){target="_blank"}**
  <hr /> 
  
-# Recent blogs and media
+**Recent blogs and media**
 
 
-**`r icons::fontawesome("pen")` - [BLOG: Reflections on ecotourism and wildlife conservation in the Peruvian Amazon](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/){target="_blank"}**
+**`r icons::fontawesome("pen")` - [BLOG: "Reflections on ecotourism and wildlife conservation in the Peruvian Amazon"](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/){target="_blank"}**
 
 **`r icons::fontawesome("newspaper")` - [USA TODAY ARTICLE:
 "Climate change washed away bald eagles' food.
 Now these eagles are becoming farm birds." ](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/){target="_blank"}**
+
+**`r icons::fontawesome("microphone")` - [CBC RADIO PODCAST: "Eagles are eating cows instead of salmon – and farmers are happy"](https://www.cbc.ca/player/play/2188569155552){target="_blank"}**
 
  <hr /> 
 
@@ -39,11 +41,11 @@ Now these eagles are becoming farm birds." ](https://www.usatoday.com/story/news
 ![Elwha River, WA](https://revitalization.org/wp-content/uploads/2016/02/Elwha_Salmon-1050x700.jpg)
 https://revitalization.org/article/elwha-river-ecology-bursts-with-new-life-following-dam-removals-in-washington/
 
-![Tapir highway in Amazon Rainforest, Loreto, Peru (1/13/2022) ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapirlick.jpg)
+![A tapir highway entering a mineral lick in Peruvian Amazon (1/13/2022) ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapirlick.jpg)
 
 
-![On the river with musings of joe (1/22/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\river_joe.jpg)
+![Navigating tributaries of the Sucusari with the Maijuna - Loreto, Peru (1/22/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\river_joe.jpg)
 
-![Ringed Kingfisher along the stream (1/22/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ringedkingfisher.jpg)
+![Ringed Kingfisher (*Megaceryle torquata*) paued along the stream in Yasuní, Ecuador (1/22/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ringedkingfisher.jpg)
 
 ![Glacier NP, 8/20/2020](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_glacier.jpg)
