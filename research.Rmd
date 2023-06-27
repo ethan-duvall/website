@@ -32,7 +32,7 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. Sodium is essential for animals, but typically non-essential, and often toxic, for plants. As a result, plants often do not contain sufficient Na to meet the demands of an herbivorous diet. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.
 
-> ### **Implications of salt deficiency and supplementation by large herbivores** 
+> ### **Implications of Na deficiency and supplementation by large herbivores** 
 TBA
 
 • Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
@@ -48,7 +48,7 @@ The western Amazon is one of the most Na-poor regions in the world. Consequently
 
 - - - -
 
-## **Calcium selection by birds **
+## **Calcium supplementation by birds **
 <details>
   <summary>Click to learn more</summary>
 
@@ -62,7 +62,7 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
 
 - - - -
 
-## **Riverbird responses to human impacts on rivers**
+## **Riverbird responses to human activities**
 <details>
   <summary>Click to learn more</summary>
 
