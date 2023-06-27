@@ -12,7 +12,7 @@ output: html_document
 
 -----
 > ### **Stoichiometry and Functioning**
-Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds differentially mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
+Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
 
 • **Duvall, E.**, Derry, L., Mcyntire, P., and A Flecker (*In preperation*). Patterns and mechanisms of variation in the elemental composition of birds.
 
@@ -24,16 +24,21 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 - - - -
 
-## **Sodium ecology of large herbivores**
+## **Salt and large herbivores**
 <details>
   <summary>Click to learn more</summary>
 
 -----
 
-Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. Sodium is essential for animal growth and maintenance, but typically non-essential, and often toxic, for plants. As a result, most plants uptake Na passively, leading to low foliar Na concentrations in Na-poor ecosystems (e.g., non-coastal). This induces a unique stoichiometric mismatch between herbivores and their food that can lead to Na limitation. Our research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.
+Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. Sodium is essential for animals, but typically non-essential, and often toxic, for plants. As a result, plants often do not contain sufficient Na to meet the demands of an herbivorous diet. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.
+
+> ### **Implications of salt deficiency and supplementation by large herbivores** 
+TBA
+
+• Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
 
 > ### **Mineral licks and Na cycling in western Amazonia**
-The western Amazon is one of the most Na-poor regions in the world. High precipitation, temperatures, and humidity lead to rapid nutrient leaching, while it's position relative to the Andes and ocean impedes external Na input. Consequently, plant consumers (herbivores) face challenges in obtaining sufficient Na within their natural diet. While Na shortfall has been shown to constrain smaller organisms (such as termites) and their ecosystem impacts (such as decomposition), large herbivores can seek out mineral licks, areas where animals visit to ingest Na-rich soil and water. While the importance of Na as a driver of mineral lick-use and ecosystem functioning is increasingly understood, the subsequent role of large herbivores in Na cycling remains overlooked. Quantifying such roles is essential to understanding anthropogenic impacts on ecosystem functioning through changes in the environment (e.g., oil extraction in western Amazonia) or animal populations themselves (e.g., game hunting). My research addresses these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
+The western Amazon is one of the most Na-poor regions in the world. Consequently, plant consumers face challenges in obtaining sufficient Na within their natural diet. To adapt, herbivorous animals may visit mineral licks - areas where animals consume mineral rich soil or water. But how do these biodiversity hotspots form? How do they contribute to animal nutrition? What roles may animals play in dispersing nutrients from mineral licks? And how are humans altering these roles via practices such as hunting or oil extraction? My research addresses these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
 
