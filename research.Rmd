@@ -33,16 +33,21 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. Sodium is essential for animals, but typically non-essential, and often toxic, for plants. As a result, plants often do not contain sufficient Na to meet the demands of an herbivorous diet. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.
 
 > ### **Implications of Na deficiency and supplementation by large herbivores** 
-TBA
+To offset Na deficits, large herbivores may seek out Na supplements (natural or anthropogenic) within their environment. But why is this behaviour observed in some herbivores more than others? What consequences do Na seeking behaviours have on ecosystems? And how are these processes affected by human activities that alter Na availability? Our research explores both the mechanisms and consequences of Na defficiency and supplementation by large herbivores.
+
+• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
 
 • Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
+
+
+![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally!](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg)
+
 
 > ### **Mineral licks and Na cycling in western Amazonia**
 The western Amazon is one of the most Na-poor regions in the world. Consequently, plant consumers face challenges in obtaining sufficient Na within their natural diet. To adapt, herbivorous animals may visit mineral licks - areas where animals consume mineral rich soil or water. But how do these biodiversity hotspots form? How do they contribute to animal nutrition? What roles may animals play in dispersing nutrients from mineral licks? And how are humans altering these roles via practices such as hunting or oil extraction? My research addresses these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
 
-• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
 
-![Tapir visiting a mineral lick at Tiputini Biodiversity Station, Orellana, Ecuador (1/21/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir1.jpg)
+![Red howler monkeys visiting a mineral lick in Orellana, Ecuador ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey_mineral_lick.jpg)
 
 </details> 
 
