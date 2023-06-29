@@ -30,8 +30,6 @@ Environmental Science, Terrestrial Ecology Emphasis
 
 ## **Publications** 
 
-•	**Duvall, E.** and McLaughlin, J. (<span style="color:black">*In Review*</span>). Evaluating river-dependent birds as restoration indicators after Elwha dam removals
-
 • Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (<span style="color:black">**2023**</span>). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
@@ -43,6 +41,8 @@ Environmental Science, Terrestrial Ecology Emphasis
 •	Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. (<span style="color:black">**2022**</span>) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management* https://doi.org/10.1016/j.jenvman.2021.113952
 
 •	**Duvall, E.** (<span style="color:black">**2022**</span>). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://doi.org/10.3955/046.095.0306 
+
+•	**Duvall, E.** and J McLaughlin (<span style="color:black">*In Review*</span>). Evaluating river-dependent birds as restoration indicators after Elwha dam removals
 
 
 ## **Presentations**
