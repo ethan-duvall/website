@@ -8,8 +8,6 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
-    - text: "Photos"
-      href: photos.html
     - text: "Contact"
       href: contact.html
 output_dir: "."
