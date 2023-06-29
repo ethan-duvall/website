@@ -40,7 +40,7 @@ To offset Na deficits, large herbivores may seek out Na supplements (natural or 
 • Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
 
 
-![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally!](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg)
+![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally!](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg){width=80%}
 
 
 > ### **Mineral licks and Na cycling in western Amazonia**
