@@ -16,3 +16,7 @@ Department of Ecology & Evolutionary Biology
 Corson Hall, 215 Tower Road
 
 Ithaca, NY 14853
+
+**`r icons::fontawesome("instagram")` - Instagram: [https://www.instagram.com/ethanduvall.ecology](https://www.instagram.com/ethanduvall.ecology){target="_blank"}**
+
+**`r icons::fontawesome("twitter")` - Twitter: [https://twitter.com/DuvallEcology](https://twitter.com/DuvallEcology){target="_blank"}**
