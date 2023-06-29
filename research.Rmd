@@ -47,7 +47,7 @@ To offset Na deficits, large herbivores may seek out Na supplements (natural or 
 The western Amazon is one of the most Na-poor regions in the world. Consequently, plant consumers face challenges in obtaining sufficient Na within their natural diet. To adapt, herbivorous animals may visit mineral licks - areas where animals consume mineral rich soil or water. But how do these biodiversity hotspots form? How do they contribute to animal nutrition? What roles may animals play in dispersing nutrients from mineral licks? And how are humans altering these roles via practices such as hunting or oil extraction? My research addresses these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
 
 
-![Red howler monkeys visiting a mineral lick in Orellana, Ecuador ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey_mineral_lick.jpg)
+![Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey_mineral_lick.jpg)
 
 </details> 
 
