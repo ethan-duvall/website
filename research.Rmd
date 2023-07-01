@@ -30,17 +30,15 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 -----
 
-Sodium (Na) plays a critical role in the functioning of terrestrial ecosystems. Sodium is essential for animals, but typically non-essential, and often toxic, for plants. As a result, plants often do not contain sufficient Na to meet the demands of an herbivorous diet. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.
-
 > ### **Implications of Na deficiency and supplementation by large herbivores** 
-To offset Na deficits, large herbivores may seek out Na supplements (natural or anthropogenic) within their environment. But why is this behaviour observed in some herbivores more than others? What consequences do Na seeking behaviours have on ecosystems? And how are these processes affected by human activities that alter Na availability? Our research explores both the mechanisms and consequences of Na defficiency and supplementation by large herbivores.
+Sodium is essential for animals, but typically non-essential for plants. As a result, plants in Na-poor environments often contain insufficient amounts of Na to meet herbivore requirements. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.To offset Na deficits, large herbivores may seek out Na supplements (natural or anthropogenic) within their environment. But why is this behaviour observed in some herbivores more than others? What consequences do Na seeking behaviours have on ecosystems? And how are these processes affected by human activities that alter Na availability? Our research explores both the mechanisms and consequences of Na defficiency and supplementation by large herbivores.
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
 
 • Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
 
 
-![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally!](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg){width=80%}
+![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally! Figure from Duvall et al 2023  *Oikos*](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg){width=80%}
 
 
 > ### **Mineral licks and Na cycling in western Amazonia**
@@ -72,15 +70,6 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
   <summary>Click to learn more</summary>
 
 -----
-> ### **Riverbird responses to dam removal**
-Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators of restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY. 
-
-• **Duvall, E.** and McLaughlin, J. (*In review*). River-dependent birds measure restoration following Elwha dam removals 
-
-• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management https://doi.org/10.1016/j.jenvman.2021.113952
-
-![Elwha River, WA](https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg)
-http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
 
 > ###  **Bald eagle responses to declining salmon carcasses**
 Each winter, thousands of Bald Eagles from across western North America migrate to Pacific Northwest rivers to feed on the carcasses of post-spawning chum salmon. However, declining salmon populations and impacts of climate change are reducing the availability of salmon carcasses as a wintering food source for eagles. My research has focused on eagles ability to adjust to these impacts, specifically by redistributing to non-river habitats. My results suggest that the utilization of agricultural areas may be an important survival strategy for eagles as chum salmon carcasses continue to decline. Preliminary results of our follow-up study have shown that dairy farms are especially important, and that by feeding on dairy farm discards, eagles may actually provide services to farmers without conflict.
@@ -92,5 +81,15 @@ Each winter, thousands of Bald Eagles from across western North America migrate 
 
 ![Nooksack River, WA](https://www.americanrivers.org/wp-content/uploads/2019/12/Cowell2-1-1024x682.jpg)
 https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/
+
+> ### **Riverbird responses to dam removal**
+Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators of restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY. 
+
+• **Duvall, E.** and McLaughlin, J. (*In review*). River-dependent birds measure restoration following Elwha dam removals 
+
+• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management https://doi.org/10.1016/j.jenvman.2021.113952
+
+![Elwha River, WA](https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg)
+http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
 
 </details> 
