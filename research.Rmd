@@ -6,7 +6,7 @@ output: html_document
 -------------
 
 
-## **Birds in biogeochemistry**
+## **Zoogeochemistry and stoichiometry of vertebrates**
 <details>
   <summary>Click to learn more</summary>
 
@@ -25,7 +25,7 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 -------------
 
-## **Salt and large herbivores**
+## **Ecological consequences of nutrient deficiency and supplementation by wildlife**
 <details>
   <summary>Click to learn more</summary>
 
@@ -52,7 +52,7 @@ The western Amazon is one of the most Na-poor regions in the world. Consequently
 
 -------------
 
-## **Calcium supplementation by birds**
+## **Humans, wildlife, and rainforest sustainability in western Amazonia**
 <details>
   <summary>Click to learn more</summary>
 
