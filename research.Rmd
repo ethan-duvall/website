@@ -11,6 +11,7 @@ output: html_document
   <summary>Click to learn more</summary>
 
 -----
+
 > ### **Stoichiometry and Functioning**
 Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
 
@@ -56,6 +57,7 @@ The western Amazon is one of the most Na-poor regions in the world. Consequently
   <summary>Click to learn more</summary>
 
 -----
+
 > ### **Foraging behavior and preferences**
 Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonate (CaCO3); yet the diet of many non-carnivorous birds lacks sufficient calcium for egg-laying. Nestlings also need additional calcium for rapid skeletal growth during the breeding season. In order to meet these calcium requirments, birds must locate and consume calcium-rich material within their respective environments. My goal is to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, calcium sources, season, and habitat. The research currently takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
 
@@ -65,7 +67,7 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
 
 -------------
 
-## **Avian responses to human impacts on rivers**
+## **Wildlife responses to human impacts on rivers**
 <details>
   <summary>Click to learn more</summary>
 
