@@ -13,14 +13,23 @@
 
 <title>Research</title>
 
-<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
@@ -37,11 +46,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -54,32 +58,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -90,10 +69,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -110,40 +85,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -171,7 +122,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -183,7 +134,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -193,11 +144,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -209,13 +177,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -223,16 +190,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -335,7 +295,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -349,7 +309,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -378,7 +338,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -394,19 +354,45 @@ div.tocify {
 <summary>
 Click to learn more
 </summary>
-<hr />
-<blockquote>
-<h3 id="stoichiometry-and-functioning"><strong>Stoichiometry and Functioning</strong></h3>
-<p>Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling.</p>
-</blockquote>
-<p>• <strong>Duvall, E.</strong>, Derry, L., Mcyntire, P., and A Flecker (<em>In preperation</em>). Patterns and mechanisms of variation in the elemental composition of birds.</p>
-<p>• Abraham, A., <strong>Duvall, E.</strong>, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (<strong>2022</strong>). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. <em>Restoration Ecology</em> <a href="https://doi.org/10.1111/rec.13778" class="uri">https://doi.org/10.1111/rec.13778</a></p>
-<div class="figure">
-<img src="images/birdpoop.jpg" alt="" />
-<p class="caption">A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)</p>
-</div>
-</details>
-<hr />
+<table style="width:8%;">
+<colgroup>
+<col width="8%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>&gt; ### <strong>Stoichiometry and Functioning</strong> Birds are
+highly mobile, abundant, and metabolically active organisms, able to
+alter ecosystem structure and function through dispersion of nutrients
+they sequester and release. My current research examines drivers of
+variation in the body and waste stoichiometry (nutrient composition) of
+birds to underscore the mechanisms influencing how birds mediate
+ecosystem processes. I hope to shed light on the importance of
+sustaining services that birds provide through their roles in
+biogeochemical cycling.</td>
+</tr>
+<tr class="even">
+<td>• <strong>Duvall, E.</strong>, Derry, L., Mcyntire, P., and A
+Flecker (<em>In preperation</em>). Patterns and mechanisms of variation
+in the elemental composition of birds.</td>
+</tr>
+<tr class="odd">
+<td>• Abraham, A., <strong>Duvall, E.</strong>, Ferraro, K., Webster,
+A., Doughty, C., le Roux, E., and D. Ellis-Soto.
+(<strong>2022</strong>). Understanding anthropogenic impacts on
+zoogeochemistry is essential for ecological restoration. <em>Restoration
+Ecology</em> <a href="https://doi.org/10.1111/rec.13778"
+class="uri">https://doi.org/10.1111/rec.13778</a></td>
+</tr>
+<tr class="even">
+<td><img
+src="images/birdpoop.jpg"
+alt="A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)" /></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="salt-and-large-herbivores" class="section level2">
 <h2><strong>Salt and large herbivores</strong></h2>
@@ -416,22 +402,66 @@ Click to learn more
 </summary>
 <hr />
 <blockquote>
-<h3 id="implications-of-na-deficiency-and-supplementation-by-large-herbivores"><strong>Implications of Na deficiency and supplementation by large herbivores</strong></h3>
-<p>Sodium is essential for animals, but typically non-essential for plants. As a result, plants in Na-poor environments often contain insufficient amounts of Na to meet herbivore requirements. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.To offset Na deficits, large herbivores may seek out Na supplements (natural or anthropogenic) within their environment. But why is this behaviour observed in some herbivores more than others? What consequences do Na seeking behaviours have on ecosystems? And how are these processes affected by human activities that alter Na availability? Our research explores both the mechanisms and consequences of Na defficiency and supplementation by large herbivores.</p>
+<h3
+id="implications-of-na-deficiency-and-supplementation-by-large-herbivores"><strong>Implications
+of Na deficiency and supplementation by large herbivores</strong></h3>
+<p>Sodium is essential for animals, but typically non-essential for
+plants. As a result, plants in Na-poor environments often contain
+insufficient amounts of Na to meet herbivore requirements. My research
+seeks to understand the causes and consequences Na deficiency in
+herbivores, from individuals, to communities, to ecosystems at broad
+scales.To offset Na deficits, large herbivores may seek out Na
+supplements (natural or anthropogenic) within their environment. But why
+is this behaviour observed in some herbivores more than others? What
+consequences do Na seeking behaviours have on ecosystems? And how are
+these processes affected by human activities that alter Na availability?
+Our research explores both the mechanisms and consequences of Na
+defficiency and supplementation by large herbivores.</p>
 </blockquote>
-<p>• <strong>Duvall, E.</strong>, Griffiths, B., Clauss, M., and A. Abraham (<strong>2023</strong>). Allometry of sodium requirements and mineral lick use among herbivorous mammals. <em>Oikos</em> <a href="https://doi.org/10.1111/oik.10058" class="uri">https://doi.org/10.1111/oik.10058</a></p>
-<p>• Abraham A., <strong>Duvall, E.</strong>, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black"><strong>2023</strong></span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. <em>Biological Conservation</em> <a href="https://doi.org/10.1016/j.biocon.2023.110149" class="uri">https://doi.org/10.1016/j.biocon.2023.110149</a></p>
-<div class="figure">
-<img src="images/mineral_lick_use_globally.jpg" style="width:80.0%" alt="" />
-<p class="caption">We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally! Figure from Duvall et al 2023 <em>Oikos</em></p>
+<p>• <strong>Duvall, E.</strong>, Griffiths, B., Clauss, M., and A.
+Abraham (<strong>2023</strong>). Allometry of sodium requirements and
+mineral lick use among herbivorous mammals. <em>Oikos</em> <a
+href="https://doi.org/10.1111/oik.10058"
+class="uri">https://doi.org/10.1111/oik.10058</a></p>
+<p>• Abraham A., <strong>Duvall, E.</strong>, le Roux, E., Ganswindt,
+A., Clauss, M., Doughty, C., and A. Webster (<span
+style="color:black"><strong>2023</strong></span>) Anthropogenic supply
+of nutrients in a wildlife reserve may compromise conservation success.
+<em>Biological Conservation</em> <a
+href="https://doi.org/10.1016/j.biocon.2023.110149"
+class="uri">https://doi.org/10.1016/j.biocon.2023.110149</a></p>
+<div class="float">
+<img
+src="images/mineral_lick_use_globally.jpg"
+style="width:80.0%"
+alt="We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally! Figure from Duvall et al 2023 Oikos" />
+<div class="figcaption">We find that larger-bodied herbivores are more
+susceptible to Na defficiency, leading to increased use of natural and
+anthropogenic mineral licks globally! Figure from Duvall et al 2023
+<em>Oikos</em></div>
 </div>
 <blockquote>
-<h3 id="mineral-licks-and-na-cycling-in-western-amazonia"><strong>Mineral licks and Na cycling in western Amazonia</strong></h3>
-<p>The western Amazon is one of the most Na-poor regions in the world. Consequently, plant consumers face challenges in obtaining sufficient Na within their natural diet. To adapt, herbivorous animals may visit mineral licks - areas where animals consume mineral-rich soil or water. But how do these biodiversity hotspots form? How do they contribute to animal nutrition? What are animal roles in dispersing nutrients from mineral licks? And how are humans altering these roles via practices such as hunting or oil extraction? My research is currently addressing these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon.</p>
+<h3
+id="mineral-licks-and-na-cycling-in-western-amazonia"><strong>Mineral
+licks and Na cycling in western Amazonia</strong></h3>
+<p>The western Amazon is one of the most Na-poor regions in the world.
+Consequently, plant consumers face challenges in obtaining sufficient Na
+within their natural diet. To adapt, herbivorous animals may visit
+mineral licks - areas where animals consume mineral-rich soil or water.
+But how do these biodiversity hotspots form? How do they contribute to
+animal nutrition? What are animal roles in dispersing nutrients from
+mineral licks? And how are humans altering these roles via practices
+such as hunting or oil extraction? My research is currently addressing
+these questions through spatially-explicit model simulations, biotic and
+abiotic field measurements, and study of human practices in the western
+Amazon.</p>
 </blockquote>
-<div class="figure">
-<img src="images/howler_monkey_mineral_lick.jpg" alt="" />
-<p class="caption">Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador</p>
+<div class="float">
+<img
+src="images/howler_monkey_mineral_lick.jpg"
+alt="Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador" />
+<div class="figcaption">Red howler monkeys consuming mineral-rich clay
+in Yasuni, Ecuador</div>
 </div>
 </details>
 <hr />
@@ -442,19 +472,38 @@ Click to learn more
 <summary>
 Click to learn more
 </summary>
-<hr />
-<blockquote>
-<h3 id="foraging-behavior-and-preferences"><strong>Foraging behavior and preferences</strong></h3>
-<p>Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonate (CaCO3); yet the diet of many non-carnivorous birds lacks sufficient calcium for egg-laying. Nestlings also need additional calcium for rapid skeletal growth during the breeding season. In order to meet these calcium requirments, birds must locate and consume calcium-rich material within their respective environments. My goal is to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, calcium sources, season, and habitat. The research currently takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences.</p>
-</blockquote>
-<div class="figure">
-<img src="images/calcium_tit.jpg" alt="" />
-<p class="caption">Tufted titmouse interacting with snail shells at camera trap station (5/2/2021)</p>
+<table style="width:8%;">
+<colgroup>
+<col width="8%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>&gt; ### <strong>Foraging behavior and preferences</strong> Birds
+lay eggs, and eggs-shells are made almost entirely out of calcium
+carbonate (CaCO3); yet the diet of many non-carnivorous birds lacks
+sufficient calcium for egg-laying. Nestlings also need additional
+calcium for rapid skeletal growth during the breeding season. In order
+to meet these calcium requirments, birds must locate and consume
+calcium-rich material within their respective environments. My goal is
+to better understand the ecological interactions of birds and calcium in
+the wild, including how these interactions vary by species, calcium
+sources, season, and habitat. The research currently takes place in
+Ithaca, NY, using camera trapping techniques to record information on
+calcium foraging behaviour and preferences.</td>
+</tr>
+<tr class="even">
+<td><img
+src="images/calcium_tit.jpg"
+alt="Tufted titmouse interacting with snail shells at camera trap station (5/2/2021)" /></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
 </div>
-</details>
-<hr />
-</div>
-<div id="avian-responses-to-human-impacts-on-rivers" class="section level2">
+<div id="avian-responses-to-human-impacts-on-rivers"
+class="section level2">
 <h2><strong>Avian responses to human impacts on rivers</strong></h2>
 <details>
 <summary>
@@ -462,19 +511,64 @@ Click to learn more
 </summary>
 <hr />
 <blockquote>
-<h3 id="bald-eagle-responses-to-declining-salmon-carcasses"><strong>Bald eagle responses to declining salmon carcasses</strong></h3>
-<p>Each winter, thousands of Bald Eagles from across western North America migrate to Pacific Northwest rivers to feed on the carcasses of post-spawning chum salmon. However, declining salmon populations and impacts of climate change are reducing the availability of salmon carcasses as a wintering food source for eagles. My research has focused on eagles ability to adjust to these impacts, specifically by redistributing to non-river habitats. My results suggest that the utilization of agricultural areas may be an important survival strategy for eagles as chum salmon carcasses continue to decline. Preliminary results of our follow-up study have shown that dairy farms are especially important, and that by feeding on dairy farm discards, eagles may actually provide services to farmers without conflict.</p>
+<h3 id="bald-eagle-responses-to-declining-salmon-carcasses"><strong>Bald
+eagle responses to declining salmon carcasses</strong></h3>
+<p>Each winter, thousands of Bald Eagles from across western North
+America migrate to Pacific Northwest rivers to feed on the carcasses of
+post-spawning chum salmon. However, declining salmon populations and
+impacts of climate change are reducing the availability of salmon
+carcasses as a wintering food source for eagles. My research has focused
+on eagles ability to adjust to these impacts, specifically by
+redistributing to non-river habitats. My results suggest that the
+utilization of agricultural areas may be an important survival strategy
+for eagles as chum salmon carcasses continue to decline. Preliminary
+results of our follow-up study have shown that dairy farms are
+especially important, and that by feeding on dairy farm discards, eagles
+may actually provide services to farmers without conflict.</p>
 </blockquote>
-<p>• <strong>Duvall, E.</strong> (2022). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. <em>Northwest Science</em> Vol 95. <a href="https://doi.org/10.3955/046.095.0306" class="uri">https://doi.org/10.3955/046.095.0306</a></p>
-<p>• <strong>Duvall, E.</strong>, Schwabe, E., and K. Steensma (2023). A win-win between farmers and an apex-predator: investigating the relationship between bald eagles and dairy farms. <em>Ecosphere</em> <a href="https://doi.org/10.1002/ecs2.4456" class="uri">https://doi.org/10.1002/ecs2.4456</a></p>
-<p><img src="https://www.americanrivers.org/wp-content/uploads/2019/12/Cowell2-1-1024x682.jpg" alt="Nooksack River, WA" /> <a href="https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/" class="uri">https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/</a></p>
+<p>• <strong>Duvall, E.</strong> (2022). Spatiotemporal responses of
+bald eagles to changes in salmon carcass availability in the Pacific
+Northwest. <em>Northwest Science</em> Vol 95. <a
+href="https://doi.org/10.3955/046.095.0306"
+class="uri">https://doi.org/10.3955/046.095.0306</a></p>
+<p>• <strong>Duvall, E.</strong>, Schwabe, E., and K. Steensma (2023). A
+win-win between farmers and an apex-predator: investigating the
+relationship between bald eagles and dairy farms. <em>Ecosphere</em> <a
+href="https://doi.org/10.1002/ecs2.4456"
+class="uri">https://doi.org/10.1002/ecs2.4456</a></p>
+<p><img
+src="https://www.americanrivers.org/wp-content/uploads/2019/12/Cowell2-1-1024x682.jpg"
+alt="Nooksack River, WA" /> <a
+href="https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/"
+class="uri">https://www.americanrivers.org/2019/12/eagles-salmon-and-a-free-flowing-river/</a></p>
 <blockquote>
-<h3 id="riverbird-responses-to-dam-removal"><strong>Riverbird responses to dam removal</strong></h3>
-<p>Dam removal has become a priority for the conservation of freshwater biodiversity globally. My research has focused on two of the largest dam removals in history on the Elwha River, WA, examining changes in the abundance and distribution of river-dependent birds before and after dam removal. Only 4 years after dam removal, species are returning to upstream river sections and nesting density of nearly all species has increased. Our work also suggests that riverbird responses can be effective indicators of restoration progress. I am now examining bird responses to the removal of smaller, more pervasive stream barriers in tributaries of the Hudson River, NY.</p>
+<h3 id="riverbird-responses-to-dam-removal"><strong>Riverbird responses
+to dam removal</strong></h3>
+<p>Dam removal has become a priority for the conservation of freshwater
+biodiversity globally. My research has focused on two of the largest dam
+removals in history on the Elwha River, WA, examining changes in the
+abundance and distribution of river-dependent birds before and after dam
+removal. Only 4 years after dam removal, species are returning to
+upstream river sections and nesting density of nearly all species has
+increased. Our work also suggests that riverbird responses can be
+effective indicators of restoration progress. I am now examining bird
+responses to the removal of smaller, more pervasive stream barriers in
+tributaries of the Hudson River, NY.</p>
 </blockquote>
-<p>• <strong>Duvall, E.</strong> and McLaughlin, J. (<em>In review</em>). River-dependent birds measure restoration following Elwha dam removals</p>
-<p>• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management <a href="https://doi.org/10.1016/j.jenvman.2021.113952" class="uri">https://doi.org/10.1016/j.jenvman.2021.113952</a></p>
-<p><img src="https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg" alt="Elwha River, WA" /> <a href="http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/" class="uri">http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/</a></p>
+<p>• <strong>Duvall, E.</strong> and McLaughlin, J. (<em>In
+review</em>). River-dependent birds measure restoration following Elwha
+dam removals</p>
+<p>• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri,
+L., Duvall, E., et al. (2022) A machine learning approach to identify
+barriers in stream networks demonstrates high prevalence of unmapped
+riverine dams. Journal of Environmental Management <a
+href="https://doi.org/10.1016/j.jenvman.2021.113952"
+class="uri">https://doi.org/10.1016/j.jenvman.2021.113952</a></p>
+<p><img
+src="https://cloudfront-us-east-1.images.arcpublishing.com/opb/BBIC7USJPFBPPGAHGXWHLACCKI.jpg"
+alt="Elwha River, WA" /> <a
+href="http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/"
+class="uri">http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/</a></p>
 </details>
 </div>
 
@@ -507,7 +601,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -516,6 +610,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

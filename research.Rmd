@@ -22,7 +22,7 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 </details> 
 
-- - - -
+-------------
 
 ## **Salt and large herbivores**
 <details>
@@ -49,7 +49,7 @@ The western Amazon is one of the most Na-poor regions in the world. Consequently
 
 </details> 
 
-- - - -
+-------------
 
 ## **Calcium supplementation by birds**
 <details>
@@ -63,7 +63,7 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
 
 </details> 
 
-- - - -
+-------------
 
 ## **Avian responses to human impacts on rivers**
 <details>
@@ -89,7 +89,7 @@ Dam removal has become a priority for the conservation of freshwater biodiversit
 
 • Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., Duvall, E., et al. (2022) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. Journal of Environmental Management https://doi.org/10.1016/j.jenvman.2021.113952
 
-![Elwha River, WA](https://www.seattleaquarium.org/sites/default/files/images/photo-1-1024x768.jpg)
+![Elwha River, WA](https://cloudfront-us-east-1.images.arcpublishing.com/opb/BBIC7USJPFBPPGAHGXWHLACCKI.jpg)
 http://www.westernfrontonline.com/2019/01/10/environmental-science-students-analyze-a-river-reborn/
 
 </details> 
