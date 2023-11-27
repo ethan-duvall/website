@@ -6,7 +6,7 @@ output: html_document
 -------------
 
 
-## **Zoogeochemistry and stoichiometry of vertebrates**
+## **Animal roles in earth's elemental cycles**
 <details>
   <summary>Click to learn more</summary>
 
@@ -25,7 +25,7 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 -------------
 
-## **Nutrient deficiency and supplementation by wildlife**
+## **Wildlife nutrient deficiency and supplementation**
 <details>
   <summary>Click to learn more</summary>
 
@@ -67,7 +67,7 @@ Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonat
 
 -------------
 
-## **Wildlife responses to human impacts on rivers**
+## **Avian responses to human impacts on rivers**
 <details>
   <summary>Click to learn more</summary>
 
