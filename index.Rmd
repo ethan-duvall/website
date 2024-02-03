@@ -10,8 +10,8 @@ I am an ecologist with particular interests in wildlife and biogeochemistry. Mos
 I am currently a PhD candidate in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/){target="_blank"}. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University, advised by Dr. John McLaughlin. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and am passionate about being in the field. I grew up in the Cascade Mountains of Washington State and will always call the Pacific Northwest home.
 
 ```{r setup, include=FALSE}
-#remotes::install_github("mitchelloharawild/icons")
-#icons::download_fontawesome()
+remotes::install_github("mitchelloharawild/icons")
+icons::download_fontawesome()
 ```
 
  <hr /> 
@@ -43,8 +43,6 @@ Now these eagles are becoming farm birds." ](https://www.usatoday.com/story/news
 
 ![A tapir visiting a mineral lick in Yasuni, Ecuador (6/22/2023) ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir_lick3.jpg)
 
-![Elwha River, WA](https://revitalization.org/wp-content/uploads/2016/02/Elwha_Salmon-1050x700.jpg)
-https://revitalization.org/article/elwha-river-ecology-bursts-with-new-life-following-dam-removals-in-washington/
 
 ![Exploring the tributaries of the Sucusari River, Loreto, Peru](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\river_joe.jpg)
 
