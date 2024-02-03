@@ -6,14 +6,14 @@ output: html_document
 -------------
 
 
-## **Zoogeochemistry: animals in earth's elemental cycles**
+## **Exploring animal roles in earth's elemental cycles**
 <details>
   <summary>Click to learn more</summary>
 
 -----
 
-> ### **Birds as nutrient dispersal vectors**
-Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. My current research examines drivers of variation in the body and waste stoichiometry (nutrient composition) of birds to underscore the mechanisms influencing how birds mediate ecosystem processes. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
+> ### **Birds as nutrient dispersal agents**
+Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. But how do birds vary in these roles? And can we predict ecosystem responses to population declines or restoration? My current research explores these questions through examination of variation in the body and waste stoichiometry (nutrient composition) of birds, and the use of trait-based modeling frameworks at local and global scales. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
 
 • **Duvall, E.**, Derry, L., McIntyre, P., and A. Flecker. (<span style="color:red">*In preperation*</span>). Flight and phenology shape bird body stoichiometry.
 
@@ -22,7 +22,7 @@ Birds are highly mobile, abundant, and metabolically active organisms, able to a
 
 ![A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
 
-> ### **Mineral licks and Na cycling in western Amazonia**
+> ### **Large-herbivores, mineral licks, and nutrient cycling in western Amazonia**
 The western Amazon is one of the most Na-poor regions in the world. Consequently, plant consumers face challenges in obtaining sufficient Na within their natural diet. To adapt, herbivorous animals may visit mineral licks - areas where animals consume mineral-rich soil or water. But how do these biodiversity hotspots form? How do they contribute to animal nutrition? What are animal roles in dispersing nutrients from mineral licks? And how are humans altering these roles via practices such as hunting or oil extraction? My research is currently addressing these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
 
 
@@ -39,15 +39,10 @@ The western Amazon is one of the most Na-poor regions in the world. Consequently
 
 -----
 
-> ### **Implications of Na deficiency and supplementation by large herbivores** 
+> ### **Salt deficiency and supplementation by large herbivores** 
 Sodium is essential for animals, but typically non-essential for plants. As a result, plants in Na-poor environments often contain insufficient amounts of Na to meet herbivore requirements. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.To offset Na deficits, large herbivores may seek out Na supplements (natural or anthropogenic) within their environment. But why is this behaviour observed in some herbivores more than others? What consequences do Na seeking behaviours have on ecosystems? And how are these processes affected by human activities that alter Na availability? Our research explores both the mechanisms and consequences of Na defficiency and supplementation by large herbivores.
 
 • **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
-
-![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally! Figure from Duvall et al 2023  *Oikos*](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg){width=80%}
-
-> ### **Wildlife responses to human influence on nutritional landscapes** 
-Sodium is essential for animals, but typically non-essential for plants. As a result, plants in Na-poor environments often contain insufficient amounts of Na to meet herbivore requirements. My research seeks to understand the causes and consequences Na deficiency in herbivores, from individuals, to communities, to ecosystems at broad scales.To offset Na deficits, large herbivores may seek out Na supplements (natural or anthropogenic) within their environment. But why is this behaviour observed in some herbivores more than others? What consequences do Na seeking behaviours have on ecosystems? And how are these processes affected by human activities that alter Na availability? Our research explores both the mechanisms and consequences of Na defficiency and supplementation by large herbivores.
 
 • Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
 
@@ -55,22 +50,13 @@ Sodium is essential for animals, but typically non-essential for plants. As a re
 
 ![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally! Figure from Duvall et al 2023  *Oikos*](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg){width=80%}
 
-</details> 
-
--------------
-
-## **Humans, wildlife, and rainforest sustainability in Amazonia**
-<details>
-  <summary>Click to learn more</summary>
-
------
-
-> ### **Foraging behavior and preferences**
+> ### **Calcium foraging and supplementation by wild birds**
 Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonate (CaCO3); yet the diet of many non-carnivorous birds lacks sufficient calcium for egg-laying. Nestlings also need additional calcium for rapid skeletal growth during the breeding season. In order to meet these calcium requirments, birds must locate and consume calcium-rich material within their respective environments. My goal is to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, calcium sources, season, and habitat. The research currently takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
 
 ![Tufted titmouse interacting with snail shells at camera trap station (5/2/2021)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\calcium_tit.jpg)
 
 </details> 
+
 
 -------------
 
