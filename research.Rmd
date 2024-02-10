@@ -6,28 +6,21 @@ output: html_document
 -------------
 
 
-## **Exploring animal roles in earth's elemental cycles**
+## **Vertebrate roles in terrestrial nutrient cycles**
 <details>
   <summary>Click to learn more</summary>
 
 -----
 
-> ### **Birds as nutrient dispersal agents**
+> ### **Birds as nutrient dispersal agents: stoichiometry and functioning**
 Birds are highly mobile, abundant, and metabolically active organisms, able to alter ecosystem structure and function through dispersion of nutrients they sequester and release. But how do birds vary in these roles? And can we predict ecosystem responses to population declines or restoration? My current research explores these questions through examination of variation in the body and waste stoichiometry (nutrient composition) of birds, and the use of trait-based modeling frameworks at local and global scales. I hope to shed light on the importance of sustaining services that birds provide through their roles in biogeochemical cycling. 
 
 • **Duvall, E.**, Derry, L., McIntyre, P., and A. Flecker. (<span style="color:red">*In preperation*</span>). Flight and phenology shape bird body stoichiometry.
 
-• Abraham, A., Doughty, C., Plummer, K., and **E. Duvall** (<span style="color:red">*In review*</span>). Supplementary bird feeding as an overlooked contribution to local phosphorus cycles. *Frontiers in Ecology and the Environment*
+• Abraham, A., Doughty, C., Plummer, K., and **E. Duvall** (<span style="color:red">*In Press*</span>). Supplementary bird feeding as an overlooked contribution to local phosphorus cycles. *Frontiers in Ecology and the Environment*
 
 
 ![A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop.jpg)
-
-> ### **Large-herbivores, mineral licks, and nutrient cycling in western Amazonia**
-The western Amazon is one of the most Na-poor regions in the world. Consequently, plant consumers face challenges in obtaining sufficient Na within their natural diet. To adapt, herbivorous animals may visit mineral licks - areas where animals consume mineral-rich soil or water. But how do these biodiversity hotspots form? How do they contribute to animal nutrition? What are animal roles in dispersing nutrients from mineral licks? And how are humans altering these roles via practices such as hunting or oil extraction? My research is currently addressing these questions through spatially-explicit model simulations, biotic and abiotic field measurements, and study of human practices in the western Amazon. 
-
-
-![Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey_mineral_lick.jpg)
-
 
 </details> 
 
@@ -48,7 +41,7 @@ Sodium is essential for animals, but typically non-essential for plants. As a re
 
 • **Duvall, E.** Hoeneisen, N., Suárez, E., and A. Flecker (<span style="color:red">*In press*</span>). Geophagy by a large herbivore (capybara, Hydrochoerus hydrochaeris) driven by a human sodium supply. *Biotropica*
 
-![We find that larger-bodied herbivores are more susceptible to Na defficiency, leading to increased use of natural and anthropogenic mineral licks globally! Figure from Duvall et al 2023  *Oikos*](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\mineral_lick_use_globally.jpg){width=80%}
+![Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey_mineral_lick.jpg)
 
 > ### **Calcium foraging and supplementation by wild birds**
 Birds lay eggs, and eggs-shells are made almost entirely out of calcium carbonate (CaCO3); yet the diet of many non-carnivorous birds lacks sufficient calcium for egg-laying. Nestlings also need additional calcium for rapid skeletal growth during the breeding season. In order to meet these calcium requirments, birds must locate and consume calcium-rich material within their respective environments. My goal is to better understand the ecological interactions of birds and calcium in the wild, including how these interactions vary by species, calcium sources, season, and habitat. The research currently takes place in Ithaca, NY, using camera trapping techniques to record information on calcium foraging behaviour and preferences. 
