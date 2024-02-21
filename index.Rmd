@@ -1,7 +1,7 @@
 ---
 title: "About me"
 author: "Ethan Duvall | PhD Candidate | Cornell University"
-date: "6/02/2023"
+date: "2/02/2024"
 output: html_document
 ---
 
