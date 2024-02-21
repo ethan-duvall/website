@@ -9,6 +9,8 @@ I am an ecologist with particular interests in wildlife, biogeochemistry, and tr
 
 I am currently a PhD candidate in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/){target="_blank"}. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University, advised by Dr. John McLaughlin. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and am passionate about being in the field. I grew up in the Cascade Mountains of Washington State and will always call the Pacific Northwest home.
 
+*"It's always wrong to not do the right thing"*
+
 ```{r setup, include=FALSE}
 remotes::install_github("mitchelloharawild/icons")
 icons::download_fontawesome()
