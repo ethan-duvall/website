@@ -3,104 +3,112 @@ title: "Research"
 output: html_document
 ---
 
--------------
+------------------------------------------------------------------------
 
 ### [**Overview**:]{.underline}
 
-My research primarily examines (1) how anthropogenic activities impact wildlife communities, and (2) how wildlife communities influence ecosystem processes. Most of my research integrates ecology, wildlife science, biogeochemistry, and human-wildlife interactions, and is motivated by management, sustainability, and conservation challenges.
+My research primarily examines the reciprocal relationship between large animals (birds and mammals) and the chemistry of their environments, generally in the context of human ativities. However, I have a broad interest in ecology, wildlife, biogeochemistry, human-wildlife interactions, and conservation.
 
+![](images/boat_ride_peru.png)
 
-![](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\boat_ride_peru.png)
-
-
--------------
+------------------------------------------------------------------------
 
 ## **Animals in earth's elemental cycles**
-<details>
-  <summary>Click to learn more</summary>
 
------
+<details>
+
+<summary>Click to learn more</summary>
+
+------------------------------------------------------------------------
 
 > ### **How do animals shape diverse ecosystems via nutrient dispersal and cycling?**
-The capacity for animals to store, recycle, and disperse nutrients within and between ecosystems is increasingly recognized; however, our ability to predict these roles at varrying scales remains limited. My current research examines the contributions of birds and mammals roles, primarily in terrestrial systems, and how we can predict these roles for full communites at local and global scales. I utilize trait-based mechanistic modeling approaches, combining body and waste stoichiometry data, animal-trait datasets, field measurements, and local and global spatial datasets. 
+>
+> The capacity for animals to store, recycle, and disperse nutrients within and between ecosystems is increasingly recognized; however, our ability to predict these roles at varying scales remains limited. My current research examines the contributions of birds and mammals to biogeochemical cycling and its consequences for ecosystem functioning, primarily in terrestrial systems.
 
 [**Relevant publications**:]{.underline}
- 
-• **Duvall, E.**, Derry, L., McIntyre, P., and A. Flecker. (<span style="color:red">*In preperation*</span>). Flight and phenology shape bird body stoichiometry.
 
-• Abraham, A., Doughty, C., Plummer, K., and **E. Duvall** (<span style="color:red">*In Press*</span>). Supplementary bird feeding as an overlooked contribution to local phosphorus cycles. *Frontiers in Ecology and the Environment*
+• **Duvall, E.S**, Derry, L., McIntyre, P., and A. Flecker. (***In review***). Flight and phenology shape the elemental composition of birds.
 
-• Abraham, A., **Duvall, E.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. (<span style="color:black">**2022**</span>). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* https://doi.org/10.1111/rec.13778 
+• **Duvall, E.S.**, Roman, J., Pearson, H., Le Roux, E., Malhi, Y., and Abraham A.J.\*, **(*In press*)**. Resisting the carbonization of animals as climate solutions. *Nature Climate Change*
 
+• Abraham, A.J,\* Doughty, C., Plummer, K., and **Duvall. E.S.**\* 2024. Supplementary bird feeding as an overlooked contribution to local phosphorus cycles. *Frontiers in Ecology and the Environment* <https://doi.org/10.1002/fee.2793>
+
+• Abraham, A., **Duvall, E.S.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. ([**2022**]{style="color:black"}). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* <https://doi.org/10.1111/rec.13778>
 
 ![A yellow-rumped Cacique depositing nutrients into a palm swamp in Sucusari, Loreto, Peru. (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\birdpoop6.png)
 
-</details> 
+</details>
 
--------------
+------------------------------------------------------------------------
 
 ## **Wildlife nutrient deficiency and supplementation**
+
 <details>
-  <summary>Click to learn more</summary>
 
------
+<summary>Click to learn more</summary>
 
-> ### **How does nutritional limitation shape wildlife ecology?** 
-Animals face many challenges for surival in the wild, including the acquisition of essential nutrients needed to grow, survive, and reproduce. My research examines the causes and consequences of nutrient defficiency in mammals and birds. I am particularly fascinated by how herbivorous animals adapt to a scarcity of sodium, and how such adaptations animal roles in ecsosystem processes. I am also interested in how birds cope with high calcium requirements needed to lay eggs and grow remarkably fast in the wild. I combine field and modeling approaches to estimate animal nutrition, defficiency, and subsequent responses.
+------------------------------------------------------------------------
+
+> ### **How does nutritional limitation shape wildlife ecology?**
+>
+> Animals face many challenges for surival in the wild, including the acquisition of essential nutrients needed to grow, survive, and reproduce. My research examines the causes and consequences of nutrient deficiency in mammals and birds. I am particularly fascinated by how herbivorous animals adapt to sodium deficiency, and how such adaptations animal roles in ecosystem processes. I am also interested in how birds cope with high calcium requirements needed to lay eggs and grow remarkably fast in the wild. I combine field and modeling approaches to estimate animal nutrition, deficiency, and subsequent responses.
 
 [**Relevant publications**:]{.underline}
 
-• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* https://doi.org/10.1111/oik.10058
+• **Duvall, E.**, Griffiths, B., Clauss, M., and A. Abraham (**2023**). Allometry of sodium requirements and mineral lick use among herbivorous mammals. *Oikos* <https://doi.org/10.1111/oik.10058>
 
-• Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
+• Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster ([**2023**]{style="color:black"}) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* <https://doi.org/10.1016/j.biocon.2023.110149>
 
-• **Duvall, E.** Hoeneisen, N., Suárez, E., and A. Flecker (<span style="color:red">*In press*</span>). Geophagy by a large herbivore (capybara, Hydrochoerus hydrochaeris) driven by a human sodium supply. *Biotropica*
+• **Duvall, E.** Hoeneisen, N., Suárez, E., and A. Flecker (**2024**) Geophagy by a large herbivore (capybara, *Hydrochoerus hydrochaeris*) driven by a human sodium supply. *Biotropica* <https://doi.org/10.1111/btp.13314>
 
-![Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey1.png)
+![Red howler monkeys consuming mineral-rich clay in Yasuni, Ecuador](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\howler_monkey1.png)
 
-</details> 
+</details>
 
-
--------------
-
+------------------------------------------------------------------------
 
 ## **Animal responses to anthropogenic change**
+
 <details>
-  <summary>Click to learn more</summary>
 
------
+<summary>Click to learn more</summary>
 
-> ### **How are wildlife communities responding to diverse human impacts on ecosystems?** 
-Humans have altered ecsosystems at every corner of our planet. Whether it be habitat, resource availability, climate, or direct removal of animal species, wildlife communities are most often forced to adapt. My research examines how animals respond spatially to human activities, mainly changes in resource availability (e.g., food subsidies, nutrients), as well as direct human disturbances (e.g., reduced habitat, hunting). I am particularly passionate about the impacts of oil development and indigenous hunting regimes in the Amazon, as well the impacts of hydropower and mining on freshwater wildlife communities.
+------------------------------------------------------------------------
+
+> ### **How are wildlife communities responding to diverse human impacts on ecosystems?**
+>
+> Humans have altered ecsosystems at every corner of our planet. Whether it be habitat, resource availability, climate, or direct removal of animal species, wildlife communities are most often forced to adapt. My research examines how animals respond spatially to human activities, mainly changes in resource availability (e.g., food subsidies, nutrients), as well as direct human disturbances (e.g., reduced habitat, hunting). I am particularly passionate about the impacts of oil development and indigenous hunting regimes in the Amazon, as well the impacts of hydropower and mining on freshwater wildlife communities.
 
 [**Relevant publications**:]{.underline}
 
-• Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster (<span style="color:black">**2023**</span>) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* https://doi.org/10.1016/j.biocon.2023.110149
+• Abraham A., **Duvall, E.**, le Roux, E., Ganswindt, A., Clauss, M., Doughty, C., and A. Webster ([**2023**]{style="color:black"}) Anthropogenic supply of nutrients in a wildlife reserve may compromise conservation success. *Biological Conservation* <https://doi.org/10.1016/j.biocon.2023.110149>
 
-•	**Duvall, E.** (<span style="color:black">**2022**</span>). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. https://doi.org/10.3955/046.095.0306 
+• **Duvall, E.** ([**2022**]{style="color:black"}). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. <https://doi.org/10.3955/046.095.0306>
 
-•	Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. (<span style="color:black">**2022**</span>) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management* https://doi.org/10.1016/j.jenvman.2021.113952
+• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. ([**2022**]{style="color:black"}) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management* <https://doi.org/10.1016/j.jenvman.2021.113952>
 
-![Surveying bald eagles on the Nooksack River ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\eagle2.png)
+![Surveying bald eagles on the Nooksack River](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\eagle2.png)
 
-</details> 
+</details>
 
-
--------------
+------------------------------------------------------------------------
 
 ## **Human-wildlife interactions and conservation**
+
 <details>
-  <summary>Click to learn more</summary>
 
------
+<summary>Click to learn more</summary>
 
-> ###  **How can humans and wildlife co-exist sustainably?**
-In order to understand status and trajectory of wildlife conservation, we must understand the human-dimension to wildlife challenges. An emerging area of interest in my reseach is working directly with people on the frontlines of wildlife conservation challenges to understand their perspectives. I am particularly interested in learning how humans and wildlife can co-exist, and how we can leverage traditional and contemporary knowledge from local peoples to create positive ecological and social outcomes. I previously worked with farmers in the western United States, and now working with indigenous communities of the northwester Amazon Rainforest.
+------------------------------------------------------------------------
+
+> ### **How can humans and wildlife co-exist sustainably?**
+>
+> In order to understand status and trajectory of wildlife conservation, we must understand the human-dimension to wildlife challenges. An emerging area of interest in my researchh is working directly with people on the front lines of wildlife conservation challenges to understand their perspectives. I am particularly interested in learning how humans and wildlife can co-exist, and how we can leverage traditional and contemporary knowledge from local peoples to create positive ecological and social outcomes. I previously worked with farmers in the western United States, and now working with indigenous communities of the northwester Amazon Rainforest.
 
 [**Relevant publications**:]{.underline}
 
-• **Duvall, E.**, Schwabe, E., and K. Steensma (2023). A win-win between farmers and an apex-predator: investigating the relationship between bald eagles and dairy farms. *Ecosphere* https://doi.org/10.1002/ecs2.4456
+• **Duvall, E.**, Schwabe, E., and K. Steensma (2023). A win-win between farmers and an apex-predator: investigating the relationship between bald eagles and dairy farms. *Ecosphere* <https://doi.org/10.1002/ecs2.4456>
 
+![Peccary Waorani hunting](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ecuador_waorani_hunting.png)
 
-![Peccary Waorani hunting ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ecuador_waorani_hunting.png)
-</details> 
+</details>
