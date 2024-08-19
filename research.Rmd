@@ -7,13 +7,13 @@ output: html_document
 
 ### [**Overview**:]{.underline}
 
-My research primarily examines the reciprocal relationship between large animals (birds and mammals) and the chemistry of their environments, generally in the context of human ativities. However, I have a broad interest in ecology, wildlife, biogeochemistry, human-wildlife interactions, and conservation.
+My scientific research primarily examines the reciprocal relationship between large animals (such as birds and mammals) and the chemistry of their environments, generally in the context of human activities and pressures. However, I have a broad interest in ecology, wildlife, biogeochemistry, human-wildlife interactions, and conservation.
 
 ![](images/boat_ride_peru.png)
 
 ------------------------------------------------------------------------
 
-## **Animals in earth's elemental cycles**
+## Animals in earth's elemental cycles
 
 <details>
 
@@ -21,17 +21,13 @@ My research primarily examines the reciprocal relationship between large animals
 
 ------------------------------------------------------------------------
 
-> ### **How do animals shape diverse ecosystems via nutrient dispersal and cycling?**
+> ### **How do animal roles in biogeochemistry shape diverse ecosystems?**
 >
-> The capacity for animals to store, recycle, and disperse nutrients within and between ecosystems is increasingly recognized; however, our ability to predict these roles at varying scales remains limited. My current research examines the contributions of birds and mammals to biogeochemical cycling and its consequences for ecosystem functioning, primarily in terrestrial systems.
+> The capacity for animals to store, recycle, and disperse nutrients (such as carbon, nitrogen, phosphorus, and sodium) within and between ecosystems is increasingly recognized as critical to biosphere functioning. However, predicting these roles at varying scales remains challenging. My current research aims to improve the way we quantify and understand animal contributions to biogeochemical cycling and its implications for terrestrial ecosystems.
 
 [**Relevant publications**:]{.underline}
 
-• **Duvall, E.S**, Derry, L., McIntyre, P., and A. Flecker. (***In review***). Flight and phenology shape the elemental composition of birds.
-
-• **Duvall, E.S.**, Roman, J., Pearson, H., Le Roux, E., Malhi, Y., and Abraham A.J.\*, **(*In press*)**. Resisting the carbonization of animals as climate solutions. *Nature Climate Change*
-
-• Abraham, A.J,\* Doughty, C., Plummer, K., and **Duvall. E.S.**\* 2024. Supplementary bird feeding as an overlooked contribution to local phosphorus cycles. *Frontiers in Ecology and the Environment* <https://doi.org/10.1002/fee.2793>
+• Abraham, A.J, Doughty, C., Plummer, K., and **Duvall. E.S.** 2024. Supplementary bird feeding as an overlooked contribution to local phosphorus cycles. *Frontiers in Ecology and the Environment* <https://doi.org/10.1002/fee.2793>
 
 • Abraham, A., **Duvall, E.S.**, Ferraro, K., Webster, A., Doughty, C., le Roux, E., and D. Ellis-Soto. ([**2022**]{style="color:black"}). Understanding anthropogenic impacts on zoogeochemistry is essential for ecological restoration. *Restoration Ecology* <https://doi.org/10.1111/rec.13778>
 
@@ -41,7 +37,7 @@ My research primarily examines the reciprocal relationship between large animals
 
 ------------------------------------------------------------------------
 
-## **Wildlife nutrient deficiency and supplementation**
+## Wildlife nutrient deficiency and supplementation
 
 <details>
 
@@ -49,9 +45,9 @@ My research primarily examines the reciprocal relationship between large animals
 
 ------------------------------------------------------------------------
 
-> ### **How does nutritional limitation shape wildlife ecology?**
+> ### **How does nutritional limitation influence wildlife ecology and functions?**
 >
-> Animals face many challenges for surival in the wild, including the acquisition of essential nutrients needed to grow, survive, and reproduce. My research examines the causes and consequences of nutrient deficiency in mammals and birds. I am particularly fascinated by how herbivorous animals adapt to sodium deficiency, and how such adaptations animal roles in ecosystem processes. I am also interested in how birds cope with high calcium requirements needed to lay eggs and grow remarkably fast in the wild. I combine field and modeling approaches to estimate animal nutrition, deficiency, and subsequent responses.
+> Animals face many challenges for survival in the wild, including the acquisition of essential nutrients needed to grow, survive, and reproduce. My research examines the causes and consequences of nutrient deficiency in mammals and birds. I am particularly fascinated by how herbivorous animals adapt to sodium deficiency, and how such adaptations influence animal roles in ecosystem processes. I am also interested in how birds cope with high calcium requirements needed to lay eggs and grow remarkably fast in the wild. I combine field and modeling approaches to estimate animal nutrition, deficiency, and subsequent responses.
 
 [**Relevant publications**:]{.underline}
 
@@ -67,7 +63,7 @@ My research primarily examines the reciprocal relationship between large animals
 
 ------------------------------------------------------------------------
 
-## **Animal responses to anthropogenic change**
+## Animal responses to changing resource availability
 
 <details>
 
@@ -75,9 +71,9 @@ My research primarily examines the reciprocal relationship between large animals
 
 ------------------------------------------------------------------------
 
-> ### **How are wildlife communities responding to diverse human impacts on ecosystems?**
+> ### **How do wildlife communities cope with changing resources?** 
 >
-> Humans have altered ecsosystems at every corner of our planet. Whether it be habitat, resource availability, climate, or direct removal of animal species, wildlife communities are most often forced to adapt. My research examines how animals respond spatially to human activities, mainly changes in resource availability (e.g., food subsidies, nutrients), as well as direct human disturbances (e.g., reduced habitat, hunting). I am particularly passionate about the impacts of oil development and indigenous hunting regimes in the Amazon, as well the impacts of hydropower and mining on freshwater wildlife communities.
+> Humans have altered ecosystems at every corner of our planet. Wildlife populations must now adapt to dynamic changes in the relative abundance, accessability, and quality of food resources. My research examines how animals respond to anthropogenic changes in resource availability (e.g., food, nutrients) and anthropogenic resource subsidies.
 
 [**Relevant publications**:]{.underline}
 
@@ -85,15 +81,13 @@ My research primarily examines the reciprocal relationship between large animals
 
 • **Duvall, E.** ([**2022**]{style="color:black"}). Spatiotemporal responses of bald eagles to changes in salmon carcass availability in the Pacific Northwest. *Northwest Science* Vol 95. <https://doi.org/10.3955/046.095.0306>
 
-• Buchanan, B., Sethi, S., Cuppett, S., Jackman, G., Lung, M., Zarri, L., **Duvall, E.**, et al. ([**2022**]{style="color:black"}) A machine learning approach to identify barriers in stream networks demonstrates high prevalence of unmapped riverine dams. *Journal of Environmental Management* <https://doi.org/10.1016/j.jenvman.2021.113952>
-
 ![Surveying bald eagles on the Nooksack River](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\eagle2.png)
 
 </details>
 
 ------------------------------------------------------------------------
 
-## **Human-wildlife interactions and conservation**
+## Human-wildlife interactions and animal conservation
 
 <details>
 
@@ -103,7 +97,7 @@ My research primarily examines the reciprocal relationship between large animals
 
 > ### **How can humans and wildlife co-exist sustainably?**
 >
-> In order to understand status and trajectory of wildlife conservation, we must understand the human-dimension to wildlife challenges. An emerging area of interest in my researchh is working directly with people on the front lines of wildlife conservation challenges to understand their perspectives. I am particularly interested in learning how humans and wildlife can co-exist, and how we can leverage traditional and contemporary knowledge from local peoples to create positive ecological and social outcomes. I previously worked with farmers in the western United States, and now working with indigenous communities of the northwester Amazon Rainforest.
+> In order to find solutions to biodiversity decline, we must find ways in which humans and wildlife can co-exist. I am increasingly interested in understanding social barriers to animal restoration (rewilding) and working directly with people on the front lines of wildlife conservation.
 
 [**Relevant publications**:]{.underline}
 

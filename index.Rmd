@@ -1,13 +1,13 @@
 ---
 title: "About me"
 author: "Ethan Duvall | PhD Candidate | Cornell University"
-date: "2/02/2024"
+date: "7/02/2024"
 output: html_document
 ---
 
 I am an ecologist with particular interests in wildlife and biogeochemistry. Most of my research examines wildlife responses to human activities and its broader consequences for ecosystems - bridging gaps between animal science (ecology, nutrition, physiology, movement, and behavior) and ecosystem functioning. I am largely motivated by issues of conservation and sustainability and strive to conduct research that improves the way we understand and protect biodiversity.
 
-I am currently a PhD candidate in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/){target="_blank"}. I am also the President of the [Amazon Research & Conservation Collaborative (ARCC)](https://www.rainforest-arcc.org/){target="_blank"}, a 501(c)(3) nonprofit I founded in 2024. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University, advised by Dr. John McLaughlin. Prior to my PhD, I worked as a GIS Lead for Cascade Water Alliance, a municipal water corporation in the Puget Sound region. I have worked various outdoor jobs in the past, and am passionate about being in the field. I grew up in the North Cascade Mountains of Washington State and will always call the Pacific Northwest home.
+I am currently a PhD candidate in the Ecology and Evolutionary Biology Department at Cornell University advised by [Dr. Alex Flecker](https://fleckerlab.weebly.com/){target="_blank"}. I am also the President of the [Amazon Research & Conservation Collaborative (ARCC)](https://www.rainforest-arcc.org/){target="_blank"}, a 501(c)(3) nonprofit focused on biological and cultural conservation in the Ecuadorian Amazon. I received my BS in Environmental Science with an emphasis in Terrestrial Ecology from Western Washington University, advised by [Dr. John McLaughlin](https://faculty.jmcl.wwu.edu/). Prior to my PhD, I worked as a GIS Program Lead for [Cascade Water Alliance](https://cascadewater.org/), a municipal water corporation in the Puget Sound region. I have worked various outdoor jobs in the past (guide, technician), and am passionate about being in the field. I grew up in the North Cascade Mountains of Washington State and will always call the Pacific Northwest home.
 
 ```{r setup, include=FALSE}
 remotes::install_github("mitchelloharawild/icons")
@@ -16,32 +16,38 @@ icons::download_fontawesome()
 
 <hr />
 
-**`r icons::fontawesome("instagram")` - Follow me on Instagram: [https://www.instagram.com/ethanduvall.ecology](https://www.instagram.com/ethanduvall.ecology){target="_blank"}**
+**`r icons::fontawesome("instagram")` - Follow me on [Instagram](https://www.instagram.com/ethanduvall.ecology)**
 
-**`r icons::fontawesome("twitter")` - Follow me on Twitter: [https://twitter.com/DuvallEcology](https://twitter.com/DuvallEcology){target="_blank"}**
+**`r icons::fontawesome("twitter")` - Follow me on [Twitter](https://twitter.com/DuvallEcology)**
 
-**`r icons::fontawesome("google")` - Google Scholar Profile: [https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en](https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en){target="_blank"}**
+**`r icons::fontawesome("google")` - Explore my research on [Google Scholar](https://scholar.google.com/citations?user=hrYz_sIAAAAJ&hl=en)**
 
 <hr />
 
 **Recent blogs and media**
 
-**`r icons::fontawesome("pen")` - [BLOG: "Reflections on ecotourism and wildlife conservation in the Peruvian Amazon"](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/){target="_blank"}**
+**`r icons::fontawesome("pen")` - BLOG: ["Reflections on ecotourism and wildlife conservation in the Peruvian Amazon"](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/)**
 
-**`r icons::fontawesome("newspaper")` - [USA TODAY ARTICLE: "Climate change washed away bald eagles' food. Now these eagles are becoming farm birds."](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/){target="_blank"}**
+**`r icons::fontawesome("newspaper")` - USA TODAY: ["Climate change washed away bald eagles' food. Now these eagles are becoming farm birds."](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/)**
 
-**`r icons::fontawesome("microphone")` - [CBC RADIO PODCAST: "Eagles are eating cows instead of salmon – and farmers are happy"](https://www.cbc.ca/player/play/2188569155552){target="_blank"}**
+**`r icons::fontawesome("newspaper")` - PHYS.ORG: ["How feeding birds may be polluting local environments"](https://phys.org/news/2024-08-birds-polluting-local-environments.html)**
+
+**`r icons::fontawesome("microphone")` - CBC RADIO PODCAST: ["Eagles are eating cows instead of salmon – and farmers are happy"](https://www.cbc.ca/player/play/2188569155552)**
 
 <hr />
 
-![Canoeing the waterways of New York, USA 5/16/2021](images/canoe1.JPG)
+![Canoeing along the waterways of New York, USA](images/canoe1.JPG)
 
-![Examining a mineral lick entrance (tapir highway) with Maijuna hunters in Loreto, Peru (1/13/2022)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapirlick.jpg)
+![Examining the entrance to mineral lick (a tapir highway) with Maijuna hunters in Loreto, Peruvian Amazon ](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapirlick.jpg)
 
-![A tapir visiting a mineral lick in Yasuni, Ecuador (6/22/2023)](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir_lick3.jpg)
+![A lowland tapir visiting a mineral lick at the Tiputini Biodiversity Station, Yasuni, Ecuador](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\tapir_lick3.jpg)
 
-![Exploring the tributaries of the Sucusari River, Loreto, Peru](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\river_joe.jpg)
+![Boating the tributaries of the Sucusari River, Loreto, Peru w/ my good friend Joe](images/river_joe.JPG)
 
 ![Sharing stories and research with visiting students at the Tiputini Biodiversity Station, Ecuadorian Amazon](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_duvall_lecture.jpg)
 
-![Overlook in Glacier National Park, MT, USA, 8/20/2020](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_glacier.jpg)
+![Collecting field data in southern Yasuni, Ecuador](images/ethan_duvall_research.jpg)
+
+![Overlook in Glacier National Park, MT, USA](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethan_glacier.jpg)
+
+![Hanging out with my pelican friend in Puerto Escondido, Mexico](images/ethan_pelican.PNG)
