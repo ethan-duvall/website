@@ -1,6 +1,6 @@
 ---
 title: "About me"
-author: "Ethan Duvall | PhD Candidate | Cornell University"
+author: "Ethan S. Duvall | PhD Candidate | Cornell University"
 date: "7/02/2024"
 output: html_document
 ---
@@ -24,11 +24,11 @@ icons::download_fontawesome()
 
 <hr />
 
-**Recent blogs and media**
-
-**`r icons::fontawesome("pen")` - BLOG: ["Reflections on ecotourism and wildlife conservation in the Peruvian Amazon"](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/)**
+**Recent blogs and media coverage**
 
 **`r icons::fontawesome("newspaper")` - NATURE CLIMATE CHANGE: ["Resisting the carbonization of animals as climate solutions"](https://www.nature.com/articles/s41558-024-02106-y.epdf?sharing_token=HOaCEq1KMVVXYbacg5Mi1NRgN0jAjWel9jnR3ZoTv0PW8wVlnCj38vstc67HcL_Ew8eonwiGkEe1KJb5oNHaMKJukKC7Ld35y8mWLvHKKs4zcOsvNIpUTJDqIXsRojjWQYynQ2KvqnW3LY8hxyRzkGwifLMVds3DaJKoTIsZCB8%3D)**
+
+**`r icons::fontawesome("pen")` - BLOG: ["Reflections on ecotourism and wildlife conservation in the Peruvian Amazon"](https://aceer.org/reflections-on-ecotourism-and-wildlife-conservation-in-the-peruvian-amazon/)**
 
 **`r icons::fontawesome("newspaper")` - USA TODAY: ["Climate change washed away bald eagles' food. Now these eagles are becoming farm birds."](https://www.usatoday.com/story/news/nation/2023/03/18/bald-eagles-adapt-after-climate-change/11470297002/)**
 
