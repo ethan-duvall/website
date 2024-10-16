@@ -4,6 +4,7 @@ author: "Ethan S. Duvall | PhD Candidate | Cornell University"
 date: "7/02/2024"
 output: html_document
 ---
+![](C:\Users\ethan\OneDrive\Documents\Github\Repos\website\images\ethanduvall_website_collage.jpg)
 
 I am an ecologist with particular interests in wildlife and biogeochemistry. Most of my research examines wildlife responses to human activities and its broader consequences for ecosystems - bridging gaps between animal science (ecology, nutrition, physiology, movement, and behavior) and ecosystem functioning. I am largely motivated by issues of conservation and sustainability and strive to conduct research that improves the way we understand and protect biodiversity.
 
