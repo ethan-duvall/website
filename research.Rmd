@@ -7,7 +7,7 @@ output: html_document
 
 ### [**Overview**:]{.underline}
 
-My scientific research primarily examines the reciprocal relationship between large animals (such as birds and mammals) and the chemistry of their environments, generally in the context of human activities and pressures. However, I have a broad interest in ecology, wildlife, biogeochemistry, human-wildlife interactions, and conservation.
+My scientific research primarily examines the relationship between wildlife (mainly birds and mammals) and the chemistry of their environments, generally in the context of anthropogenic change. However, I have a broad interest in ecology, wildlife, biogeochemistry, human-wildlife interactions, and conservation.
 
 ![](images/boat_ride_peru.png)
 
@@ -21,7 +21,7 @@ My scientific research primarily examines the reciprocal relationship between la
 
 ------------------------------------------------------------------------
 
-> ### **How do animal roles in biogeochemistry shape diverse ecosystems?**
+> ### **How do animals shape ecosystems via their impacts on nutrient cycling?**
 >
 > The capacity for animals to store, recycle, and disperse nutrients (such as carbon, nitrogen, phosphorus, and sodium) within and between ecosystems is increasingly recognized as critical to biosphere functioning. However, predicting these roles at varying scales remains challenging. My current research aims to improve the way we quantify and understand animal contributions to biogeochemical cycling and its implications for terrestrial ecosystems.
 
@@ -45,7 +45,7 @@ My scientific research primarily examines the reciprocal relationship between la
 
 ------------------------------------------------------------------------
 
-> ### **How does nutritional limitation influence wildlife ecology and functions?**
+> ### **How does nutrient limitation effect wild animals and their roles in ecosystems?**
 >
 > Animals face many challenges for survival in the wild, including the acquisition of essential nutrients needed to grow, survive, and reproduce. My research examines the causes and consequences of nutrient deficiency in mammals and birds. I am particularly fascinated by how herbivorous animals adapt to sodium deficiency, and how such adaptations influence animal roles in ecosystem processes. I am also interested in how birds cope with high calcium requirements needed to lay eggs and grow remarkably fast in the wild. I combine field and modeling approaches to estimate animal nutrition, deficiency, and subsequent responses.
 
@@ -71,7 +71,7 @@ My scientific research primarily examines the reciprocal relationship between la
 
 ------------------------------------------------------------------------
 
-> ### **How do wildlife communities cope with changing resources?** 
+> ### **How do wildlife communities respond to changing resource availability?** 
 >
 > Humans have altered ecosystems at every corner of our planet. Wildlife populations must now adapt to dynamic changes in the relative abundance, accessability, and quality of food resources. My research examines how animals respond to anthropogenic changes in resource availability (e.g., food, nutrients) and anthropogenic resource subsidies.
 
